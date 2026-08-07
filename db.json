@@ -1,0 +1,3360 @@
+{
+  "status": 200,
+  "data": {
+    "headBaner": "https://dkstatics-public.digikala.com/digikala-adservice-banners/f8919b1f55eee630732bd373504bce69d6b48416_1781119096.jpg?x-oss-process=image/quality,q_95/format,webp",
+    "animatiobaner2bezanesh": "https://dkstatics-public.digikala.com/digikala-adservice-banners/488455943447ab1a45d983bea1933157e4859dbc_1782908800.gif?x-oss-process=image?x-oss-process=image/format,webp",
+    "zapas": "https://dkstatics-public.digikala.com/digikala-adservice-banners/906c1b7650a22cbebbc4936d9e8a771879afe480_1779346958.jpg?x-oss-process=image/quality,q_95/format,webp",
+    "zapas2": "https://dkstatics-public.digikala.com/digikala-adservice-banners/fdef4cb2a2a8c0b6ddc13b755c7d2b4a1ecd64be_1780495361.jpg?x-oss-process=image/quality,q_95/format,webp",
+    "zapas3": "https://dkstatics-public.digikala.com/digikala-adservice-banners/dd64fd9daf1383e7b85e98228acc56a20ef4a370_1781011850.jpg?x-oss-process=image/quality,q_95/format,webp",
+    "Header": {
+      "Logo": "https://www.digikala.com/brand/full-horizontal.svg",
+      "LogoMobile": "https://www.digikala.com/brand/typography.svg",
+      "InputZang": "../../../../public/Images/icon5Btn.png",
+      "BtnHeader": {
+        "title": "ورود | ثبت‌نام",
+        "icon": "../../../../../public/Images/DoorIcon.png",
+        "icon2": "../../../../../public/Images/icon5Btn.png",
+        "shopIcon": "../../../../../public/Images/shop.png"
+      },
+      "menu": {
+        "menuP2": {
+          "id": 1,
+          "title": "دسته‌بندی کالاها"
+        },
+        "nav": [
+          {
+            "id": 1,
+            "title": "شگفت‌انگیزها",
+            "icon": "../../../../../public/Images/icon2.png",
+            "margin": 0,
+            "line": false
+          },
+          {
+            "id": 2,
+            "title": "سوپرمارکت",
+            "icon": "../../../../../public/Images/icon1.png",
+            "margin": 12,
+            "line": false
+          },
+          {
+            "id": 3,
+            "title": "طلا و نقره دیجیتال",
+            "icon": "../../../../../public/Images/icon3.png",
+            "margin": 14,
+            "line": false
+          },
+          {
+            "id": 4,
+            "title": "پرفروش‌ترین‌ها",
+            "icon": "../../../../../public/Images/icon4.png",
+            "margin": 15,
+            "line": false
+          },
+          {
+            "id": 5,
+            "title": "سوالی دارید؟",
+            "margin": 0,
+            "line": true
+          },
+          {
+            "id": 6,
+            "title": "در دیجی‌کالا بفروشید!",
+            "margin": -7,
+            "line": false
+          }
+        ]
+      },
+      "sliderHeaderMobile": [
+        {
+          "id": 1,
+          "src": "../../../public/Images/Slider_Mo_head/icon_slider_1_mo.png",
+          "title": "سرویس‌ها"
+        },
+        {
+          "id": 2,
+          "src": "../../../public/Images/Slider_Mo_head/icon_slider_2_mo.png",
+          "title": "دیجی‌کالا"
+        },
+        {
+          "id": 3,
+          "src": "https://dkstatics-public.digikala.com/superapp-file/be940b59e8a6d6555fa10586a7c11f8052cbe1ea_1781116636.gif?x-oss-process=image/resize,w_300",
+          "title": "جام جهانی"
+        },
+        {
+          "id": 4,
+          "src": "../../../public/Images/Slider_Mo_head/icon_slider_4_mo.png",
+          "title": "طلا و نقره"
+        },
+        {
+          "id": 5,
+          "src": "../../../public/Images/Slider_Mo_head/icon_slider_5_mo.png",
+          "title": "استایل"
+        },
+        {
+          "id": 6,
+          "src": "https://dkstatics-public.digikala.com/superapp-file/13015d6a1e8a9e4464a6ceb32750299a79249ee6_1782829070.gif?x-oss-process=image/resize,w_300/format,webp",
+          "title": "سوپرمارکت"
+        },
+        {
+          "id": 7,
+          "src": "../../../public/Images/Slider_Mo_head/icon_slider_7_mo.png",
+          "title": "اعتبار خرید"
+        }
+      ],
+      "location": {
+        "title": "انتخاب آدرس",
+        "icon": "../../../../../public/Images/Location.png",
+        "iconMo": "../../../../public/Images/Header_Mo/Location.png",
+        "headTitle": "انتخاب موقعیت مکانی",
+        "headTitle2": "برای تحویل به‌موقع سفارش، موقعیت را دقیق انتخاب کنید...",
+        "Placeholder": "جستجوی استان و شهر ...",
+        "titleBtn": "ثبت موقعیت مکانی"
+      }
+    },
+    "StorySlide": [
+      {
+        "id": 1,
+        "Image": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/5fe9b7151931ed21b9ee7e4190b6d082e7796c1b_1770038447.jpg?x-oss-process=image/resize,m_fill,h_115,w_115",
+        "title": "کیف پول من"
+      },
+      {
+        "id": 2,
+        "Image": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/b1905487b91564a0b9b27634baf94f7c3f4a65af_1771940106.jpg?x-oss-process=image/resize,m_fill,h_115,w_115",
+        "title": "جارو شارژی ارزون!"
+      },
+      {
+        "id": 3,
+        "Image": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/62004fbdaf6c528105b0d4c303d0d5b953d682ed_1771701461.jpg?x-oss-process=image/resize,m_fill,h_115,w_115",
+        "title": "شارژر فندکی انکر مدل..."
+      },
+      {
+        "id": 4,
+        "Image": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/7a63c34b47909541ddad864c6d983d48c6495d65_1780073649.jpg?x-oss-process=image/resize,m_fill,h_115,w_115",
+        "title": "چند راهی همه کاره‌ی ..."
+      },
+      {
+        "id": 5,
+        "Image": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/a56a8a3c0aad383ee1bbc4d46daec66d951ca685_1777498909.jpg?x-oss-process=image/resize,m_fill,h_115,w_115",
+        "title": "تکنولوژی، با این سشو..."
+      },
+      {
+        "id": 6,
+        "Image": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/a67934403c4acc18e6ddcfb18c4580c603f958a2_1770400310.jpg?x-oss-process=image/resize,m_fill,h_115,w_115",
+        "title": "برنج هیمه با ۴۰ سال ..."
+      },
+      {
+        "id": 7,
+        "Image": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/a87e13d24d8c3a0837f13f6c80bd91e3105e445d_1778582764.jpg?x-oss-process=image/resize,m_fill,h_115,w_115",
+        "title": "قبل از خرید این ویدی..."
+      },
+      {
+        "id": 8,
+        "Image": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/65f8c5aac9c0f51fb914705d37572d8c05046ea5_1771889701.jpg?x-oss-process=image/resize,m_fill,h_115,w_115",
+        "title": "منقل روزینکس"
+      },
+      {
+        "id": 9,
+        "Image": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/303037ddac33965839e218f528e65b2137d1e603_1771917471.jpg?x-oss-process=image/resize,m_fill,h_115,w_115",
+        "title": "پاوربانک انکر مدل A1..."
+      },
+      {
+        "id": 10,
+        "Image": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/da43e0e1315096be4a16ee93b5a0a287d67a9b1c_1765781352.jpg?x-oss-process=image/resize,m_fill,h_115,w_115",
+        "title": "آباژور با قالب‌گیری ..."
+      },
+      {
+        "id": 11,
+        "Image": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/913ac5a53e6a687f0d89c25c329b0dc2d0c587b7_1780350298.jpg?x-oss-process=image/resize,m_fill,h_115,w_115",
+        "title": "ترازوی هوشمند‌ هیسکا"
+      },
+      {
+        "id": 12,
+        "Image": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/99badfcebf995e41d04f08a98d9220c26b54b5df_1768204386.jpg?x-oss-process=image/resize,m_fill,h_115,w_115",
+        "title": "جا مته‌ای ۷۵ سوراخ!"
+      },
+      {
+        "id": 13,
+        "Image": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/1f912742fd224dc280952deb2466c3a7a5299e12_1771228819.jpg?x-oss-process=image/resize,m_fill,h_115,w_115",
+        "title": "بادز انکر مدل soundc..."
+      },
+      {
+        "id": 14,
+        "Image": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/e3d35d15e724489edd66b81abebf6b4199dc2877_1771242661.jpg?x-oss-process=image/resize,m_fill,h_115,w_115",
+        "title": "با نت باکس همه چی مم..."
+      },
+      {
+        "id": 15,
+        "Image": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/1f3cf27393d338c84d661636e4da364efb58cdb0_1772005017.jpg?x-oss-process=image/resize,m_fill,h_115,w_115",
+        "title": "بادز انکر مدل R50i N..."
+      },
+      {
+        "id": 15,
+        "Image": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/a5367a6cfab8ce0e84c4c566592ea02f9992cef1_1770706480.jpg?x-oss-process=image/resize,m_fill,h_115,w_115",
+        "title": "کدوم نت باکس رو بخرم..."
+      },
+      {
+        "id": 16,
+        "Image": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/06149f038912de78436105d412af7d1806ea5a17_1771837953.jpg?x-oss-process=image/resize,m_fill,h_115,w_115",
+        "title": "مقایسه‌ی نت باکس پرس..."
+      },
+      {
+        "id": 17,
+        "Image": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/c1ba82a23245b192cb6987c0f68927e30efb0398_1770994580.jpg?x-oss-process=image/resize,m_fill,h_115,w_115",
+        "title": "عجیب‌ترین تبدیل دریل"
+      },
+      {
+        "id": 18,
+        "Image": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/55712638f3eed30e2f62f21350ee43a35e1f9dea_1771999570.jpg?x-oss-process=image/resize,m_fill,h_115,w_115",
+        "title": "پاوربانک انکر مدل A1..."
+      },
+      {
+        "id": 19,
+        "Image": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/9e92f782fbd318aecbe473cf950594f67917731f_1780349707.jpg?x-oss-process=image/resize,m_fill,h_115,w_115",
+        "title": "ترازو مگه هوشمند میش..."
+      }
+    ],
+    "FullPageSlider": [
+      {
+        "id": 1,
+        "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/129210b054f3d94deb55c3b31494718a3b330a68_1782635117.jpg?x-oss-process=image/quality,q_95/format,webp",
+        "zapas": "https://dkstatics-public.digikala.com/digikala-adservice-banners/2e9cb4bbe855ade1c3b5de2b17fe432ad9531180_1781118906.jpg?x-oss-process=image/quality,q_95/format,webp"
+      },
+      {
+        "id": 2,
+        "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/608ace6a51a08bd587cacc3595ca478f4b6b0fb1_1781107061.jpg?x-oss-process=image/quality,q_95/format,webp",
+        "imageMo": "https://dkstatics-public.digikala.com/digikala-adservice-banners/2816da7cfcd86ce953d97fa653692fc7b82c4c25_1781107062.jpg?x-oss-process=image/quality,q_95"
+      },
+      {
+        "id": 3,
+        "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/7fd69f31ef6067d68696ee6049f8710b0620feec_1783324070.jpg?x-oss-process=image/quality,q_95/format,webp",
+        "imageMo": "https://dkstatics-public.digikala.com/digikala-adservice-banners/7fd69f31ef6067d68696ee6049f8710b0620feec_1783324070.jpg?x-oss-process=image/quality,q_95/format,webp"
+      },
+      {
+        "id": 4,
+        "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/f90a20aa3e38d052e45ac4530a18c936c60a582e_1780409130.jpg?x-oss-process=image/quality,q_95/format,webp",
+        "imageMo": "https://dkstatics-public.digikala.com/digikala-adservice-banners/97c47f601a47a9342ecfe1110ff7fcab46abb8f5_1780464594.jpg?x-oss-process=image/quality,q_95"
+      },
+      {
+        "id": 5,
+        "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/bc6ae43596eacb0795ed8f447d8701f58d1a5775_1780464594.jpg?x-oss-process=image/quality,q_95/format,webp",
+        "imageMo": "https://dkstatics-public.digikala.com/digikala-adservice-banners/94e4bc4065b782f1b9faa9038aa1debe03b67d98_1780489496.jpg?x-oss-process=image/quality,q_95"
+      },
+      {
+        "id": 6,
+        "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/aeda2cec2385be737036691eb15397e672428d7a_1780489495.jpg?x-oss-process=image/quality,q_95/format,webp",
+        "imageMo": "https://dkstatics-public.digikala.com/digikala-adservice-banners/bfbcd0643cff05a549842de9272dba79e708fff9_1780611149.jpg?x-oss-process=image/quality,q_95"
+      },
+      {
+        "id": 7,
+        "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/c3ee7c8aa31cb9ff93892757dd7ce1ca6c9480e5_1781077660.png?x-oss-process=image/quality,q_95/format,webp",
+        "imageMo": "https://dkstatics-public.digikala.com/digikala-adservice-banners/ba7c47ce4a6fdc0280eac2e82078059bf7db64c5_1781077661.png?x-oss-process=image/quality,q_95"
+      },
+      {
+        "id": 8,
+        "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/4058d8280c9d8bf10d4ea7ed799833c0594f5ac6_1780611149.jpg?x-oss-process=image/quality,q_95/format,webp",
+        "imageMo": "https://dkstatics-public.digikala.com/digikala-adservice-banners/b5a3627dfc6b89ea4aba29a7d60973d23e247bd8_1780487069.gif?x-oss-process=image"
+      },
+      {
+        "id": 9,
+        "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/d87dde36dd12ff0fe7e1b23f211dc2ff6d9af776_1778482874.jpg?x-oss-process=image/quality,q_95/format,webp",
+        "imageMo": "https://dkstatics-public.digikala.com/digikala-adservice-banners/a94f2b8faf0571e12e3035613ef62b603fa4d515_1780483841.jpg?x-oss-process=image/quality,q_95"
+      },
+      {
+        "id": 10,
+        "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/c8cd92768416fe0b14933444c835b9ee865ec9ed_1780741331.jpg?x-oss-process=image/quality,q_95/format,webp",
+        "imageMo": "https://dkstatics-public.digikala.com/digikala-adservice-banners/baf39bddd414e4721d4388658d2a39a0986afba0_1780409130.jpg?x-oss-process=image/quality,q_95"
+      },
+      {
+        "id": 11,
+        "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/517817fa6ff22d9f5615d5a77dac1a1e941ad9c8_1782049672.jpg?x-oss-process=image/quality,q_95/format,webp",
+        "imageMo": "https://dkstatics-public.digikala.com/digikala-adservice-banners/517817fa6ff22d9f5615d5a77dac1a1e941ad9c8_1782049672.jpg?x-oss-process=image/quality,q_95/format,webp"
+      },
+      {
+        "id": 12,
+        "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/efcee0d8f4e7c91866cc543b0ba827747909c0a5_1781084112.gif?x-oss-process=image?x-oss-process=image/format,webp",
+        "imageMo": "https://dkstatics-public.digikala.com/digikala-adservice-banners/efcee0d8f4e7c91866cc543b0ba827747909c0a5_1781084112.gif?x-oss-process=image?x-oss-process=image/format,webp"
+      },
+      {
+        "id": 13,
+        "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/c1db62751164004cfa70d16d1e2eab71c516b550_1781122555.jpg?x-oss-process=image/quality,q_95/format,webp",
+        "imageMo": "https://dkstatics-public.digikala.com/digikala-adservice-banners/a77bad6e06b06c6fdb9b33054098ffd9534e0c2b_1781122556.jpg?x-oss-process=image/quality,q_95"
+      }
+    ],
+    "IconSlider": [
+      {
+        "id": 1,
+        "title": "سوپرمارکت فوری",
+        "width": 7,
+        "space": 5,
+        "state": false,
+        "url": "https://dkstatics-public.digikala.com/digikala-bellatrix/856d2daf9782a77d34755204955c745d401582f2_1772457881.png"
+      },
+      {
+        "id": 2,
+        "title": "طلا و نقره دیجیتال",
+        "width": 0,
+        "space": 7,
+        "state": false,
+        "url": "https://dkstatics-public.digikala.com/digikala-bellatrix/ba573d5b250b4a46b6d534eca67be031f23e0180_1779105429.png"
+      },
+      {
+        "id": 3,
+        "title": "وام بانکی، اعتبار خرید",
+        "width": 7.7,
+        "space": 0,
+        "state": false,
+        "url": "https://dkstatics-public.digikala.com/digikala-bellatrix/fd692c26cb058898affefef35c3d5e45673c4e0f_1777710613.png"
+      },
+      {
+        "id": 4,
+        "title": "صنایع دستی",
+        "width": 0,
+        "space": 10,
+        "state": false,
+        "url": "https://dkstatics-public.digikala.com/digikala-bellatrix/ba0b33d2545c2676c27efe838dd27dd976418540_1780739720.png"
+      },
+      {
+        "id": 5,
+        "title": "تخفیف طلاونقره",
+        "width": 0,
+        "space": 10,
+        "state": false,
+        "url": "https://dkstatics-public.digikala.com/digikala-bellatrix/bd257b30ff57558bde42e8373cf74b1f7d8929bf_1762768062.jpg"
+      },
+      {
+        "id": 6,
+        "title": "کالکشن 2026 لگو",
+        "width": 0,
+        "space": 0,
+        "state": false,
+        "url": "https://dkstatics-public.digikala.com/digikala-bellatrix/5e5f58a651a6fcb1cb5658b5a6050c419d2ed639_1779203254.png"
+      },
+      {
+        "id": 7,
+        "title": "اشتراک پلاس",
+        "width": 0,
+        "space": 20,
+        "state": false,
+        "url": "https://dkstatics-public.digikala.com/digikala-bellatrix/74a5ac2c42df40e2b9e9a1f7ef2fbb87a8f13cad_1771936893.png"
+      },
+      {
+        "id": 8,
+        "title": "شبکه‌های اجتماعی",
+        "width": 0,
+        "space": 20,
+        "state": false,
+        "url": "https://dkstatics-public.digikala.com/digikala-bellatrix/8f47cb8e2e8cbbce2ade6b45e2c2c8727c6ec290_1778074645.png"
+      },
+      {
+        "id": 9,
+        "title": "سوپرمارکت",
+        "width": 0,
+        "space": 20,
+        "state": false,
+        "url": "https://dkstatics-public.digikala.com/digikala-bellatrix/40beb2f7258bf47afa1e48008959e76cc70c77fb_1771941871.png"
+      },
+      {
+        "id": 10,
+        "title": "بیشتر",
+        "width": 0,
+        "state": true
+      }
+    ],
+    "PinkSlider": {
+      "PinkSliderDesktop": [
+        {
+          "id": 1,
+          "Icon1Desktop1": "https://www.digikala.com/statics/img/svg/specialCarousel/Amazings.svg",
+          "Icon1Desktop2": "https://www.digikala.com/statics/img/svg/specialCarousel/Amazing.svg",
+          "IconMobile1": "https://dkstatics-public.digikala.com/digikala-static/0d072059918d0c22b88320554ce4b3e07d0472f2_1746354551.svg",
+          "IconMobile2": "https://dkstatics-public.digikala.com/digikala-static/e0c05f5d67bf71be7605ec22cb3ee6be57d43e94_1746354561.svg",
+          "title": "مشاهده همه"
+        },
+        {
+          "id": 2,
+          "title": "هارد اکسترنال توشیبا مدل Canvio Basics ظرفیت دو ترابایت دارای رابط USB Type-A 3.2",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/073c58a28c73613545507fe999024a69b569051c_1754244508.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+          "price": "۳۳,۲۲۴,۹۰۰",
+          "offPrice": "۱۷,۸۹۹,۰۰۰",
+          "PresentOff": "۴۶"
+        },
+        {
+          "id": 3,
+          "title": "دستگاه جوش 200آمپر صبا مدل COMFORT SERIES R201",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/5d9f9ffe17443d74d26496ac443718e15ef97e1f_1726307453.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+          "price": "۱۶,۸۹۰,۰۰۰",
+          "offPrice": "۱۶,۱۰۰,۰۰۰",
+          "PresentOff": "۵"
+        },
+        {
+          "id": 4,
+          "title": "یخچال فریزر دوقلو 40 فوت استیلون مدل STORM PLUS، دارای اخطار باز ماندن درب و یخساز دستی، ارتفاع 200، پهنای 65 و عمق 65 سانتی‌ متر، میزان مصرف انرژی C، دارای 8 طبقه در یخچال و 8 طبقه در فریزر",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/a934defc3d925bb6984375f3b144afabbbbddc56_1755788223.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+          "price": "۱۳۹,۰۰۰,۰۰۰",
+          "offPrice": "۱۳۴,۸۳۰,۰۰۰",
+          "PresentOff": "۳"
+        },
+        {
+          "id": 5,
+          "title": "ماوس بی سیم گیمینگ مدل X-36",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/83a4fa31c110d9d4c543b433e4037c88db28c4e7_1777459752.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+          "price": "۴,۹۰۰,۰۰۰",
+          "offPrice": "۴,۱۶۵,۰۰۰",
+          "PresentOff": "۱۵"
+        },
+        {
+          "id": 6,
+          "title": "گوشی موبایل تی سی اچ مدل One دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/eb10f239a9016026247a07d9dd9a9cfe4161f4ce_1762157290.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+          "price": "۱۷,۴۹۹,۰۰۰",
+          "offPrice": "۱۵,۹۹۹,۹۰۰",
+          "PresentOff": "۹"
+        },
+        {
+          "id": 7,
+          "title": "پد الکلی زرین طب مدل SWAB بسته 100 عددی",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/121333329.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+          "price": "۴۰۸,۰۰۰",
+          "offPrice": "۲۳۲,۵۶۰",
+          "PresentOff": "۴۳"
+        },
+        {
+          "id": 8,
+          "title": "هارد اکسترنال توشیبا مدل Canvio Basics ظرفیت دو ترابایت دارای رابط USB Type-A 3.2",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/073c58a28c73613545507fe999024a69b569051c_1754244508.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+          "price": "۳۳,۲۲۴,۹۰۰",
+          "offPrice": "۱۷,۸۹۹,۰۰۰",
+          "PresentOff": "۴۶"
+        },
+        {
+          "id": 9,
+          "title": "کرم ضد لک روز صورت تیلسیم مدل Alpha Arbutin مناسب برای پوست معمولی حجم 50 میلی لیتر",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/25afbe50fb7ece9396806ac4de73130142a4a76f_1751102511.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+          "price": "۱,۲۵۰,۰۰۰",
+          "offPrice": "۱۹۰,۰۰۰",
+          "PresentOff": "۸۵"
+        },
+        {
+          "id": 10,
+          "title": "اس اس دی اکسترنال ای دیتا مدل SD810 ظرفیت 1 ترابایت رابط USB 3.2 Gen2",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/fc62cfa14d70d669839e12a34d6eb4bdeb382564_1766404156.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+          "price": "۳۱,۳۳۵,۳۰۰",
+          "offPrice": "۲۴,۳۹۹,۰۰۰",
+          "PresentOff": "۲۲"
+        },
+        {
+          "id": 11,
+          "title": "لپ تاپ 13.6 اینچی اپل مدل MacBook Air MW0W3 2025 PAA-M4-16GB RAM-256GB SSD",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/5f37777a901c2e09204cce0e4957d6222c84e173_1746281212.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+          "price": "۱۹۰,۰۰۰,۰۰۰",
+          "offPrice": "۱۸۷,۸۹۹,۰۰۰",
+          "PresentOff": "۱"
+        },
+        {
+          "id": 12,
+          "title": "شامپو تقویت کننده مو لورآل مدل Hyaluronic مناسب برای موهای خشک حجم 295 میلی لیتر",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/64959a04fc56e020690eeb332ca5c72b0c9225cf_1773509647.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+          "price": "۱,۰۰۰,۰۰۰",
+          "offPrice": "۸۰۵,۶۰۰",
+          "PresentOff": "۱۹"
+        },
+        {
+          "id": 13,
+          "title": "زودپز برقی 6 لیتری میگل مدل GPC 600",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/6a510afd5fd138e5fa7cb38e5c7a47d2fed1c922_1743368361.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+          "price": "۱۸,۰۴۹,۰۰۰",
+          "offPrice": "۱۴,۸۵۰,۰۰۰",
+          "PresentOff": "۱۸"
+        },
+        {
+          "id": 14,
+          "title": "ساخت کارد"
+        }
+      ],
+      "PinkSliderMobile": [
+        {
+          "id": 1,
+          "title": "مانیتور 27 اینچ سامسونگ مدل Essential Monitor S3 S30GD LS27D300GAMXUE ",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/c9b0392aa09ca203b36e0121d8fe8a433f468563_1755772187.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+          "price": "۲۱,۹۹۹,۰۰۰",
+          "offPrice": "۱۶,۹۹۰,۰۰۰",
+          "PresentOff": "۲۳"
+        },
+        {
+          "id": 2,
+          "title": "گوشی موبایل سامسونگ مدل Galaxy A16 4G دو سیم کارت ظرفیت 128 گیگابایت و رم 4 گیگابایت - ویتنام",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/b9036d74149f629611d958331c26541854c3d4f2_1763240650.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+          "price": "۳۰,۴۹۰,۳۰۰",
+          "offPrice": "۲۷,۹۹۹,۰۰۰",
+          "PresentOff": "۸"
+        },
+        {
+          "id": 3,
+          "title": "مانیتور 23.8 اینچ ال جی مدل 24U411A-B",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/11e5d6cd0824faac9290baf0e23542717f315001_1760807253.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+          "price": "۱۸,۰۰۰,۰۰۰",
+          "offPrice": "۱۵,۹۰۰,۰۰۰",
+          "PresentOff": "۱۲"
+        },
+        {
+          "id": 4,
+          "title": "شمش نقره توکنیکو مدل 31.1",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/83c7738868b38bede45b867e204c4281e50af7d0_1761557761.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+          "price": "۱۴,۷۸۰,۰۰۰",
+          "offPrice": "۱۰,۹۰۰,۰۰۰",
+          "PresentOff": "۲۶"
+        },
+        {
+          "id": 5,
+          "title": "هارد دیسک اینترنال وسترن دیجیتال مدل WD05PURX ظرفیت 500 گیگابایت",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/0b91c424e88ccc19472d1666ffe08dd2a56c4c9d_1727778430.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+          "price": "۴,۹۰۰,۰۰۰",
+          "offPrice": "۴,۱۶۵,۰۰۰",
+          "PresentOff": "۱۵"
+        },
+        {
+          "id": 6,
+          "title": "گوشی موبایل تی سی اچ مدل One دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/eb10f239a9016026247a07d9dd9a9cfe4161f4ce_1762157290.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+          "price": "۱۷,۴۹۹,۰۰۰",
+          "offPrice": "۱۵,۹۹۹,۹۰۰",
+          "PresentOff": "۹"
+        },
+        {
+          "id": 7,
+          "title": "پد الکلی زرین طب مدل SWAB بسته 100 عددی",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/121333329.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+          "price": "۴۰۸,۰۰۰",
+          "offPrice": "۲۳۲,۵۶۰",
+          "PresentOff": "۴۳"
+        },
+        {
+          "id": 8,
+          "title": "هارد اکسترنال توشیبا مدل Canvio Basics ظرفیت دو ترابایت دارای رابط USB Type-A 3.2",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/073c58a28c73613545507fe999024a69b569051c_1754244508.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+          "price": "۳۳,۲۲۴,۹۰۰",
+          "offPrice": "۱۷,۸۹۹,۰۰۰",
+          "PresentOff": "۴۶"
+        },
+        {
+          "id": 9,
+          "title": "کرم ضد لک روز صورت تیلسیم مدل Alpha Arbutin مناسب برای پوست معمولی حجم 50 میلی لیتر",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/25afbe50fb7ece9396806ac4de73130142a4a76f_1751102511.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+          "price": "۱,۲۵۰,۰۰۰",
+          "offPrice": "۱۹۰,۰۰۰",
+          "PresentOff": "۸۵"
+        },
+        {
+          "id": 10,
+          "title": "اس اس دی اکسترنال ای دیتا مدل SD810 ظرفیت 1 ترابایت رابط USB 3.2 Gen2",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/fc62cfa14d70d669839e12a34d6eb4bdeb382564_1766404156.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+          "price": "۳۱,۳۳۵,۳۰۰",
+          "offPrice": "۲۴,۳۹۹,۰۰۰",
+          "PresentOff": "۲۲"
+        },
+        {
+          "id": 11,
+          "title": "لپ تاپ 13.6 اینچی اپل مدل MacBook Air MW0W3 2025 PAA-M4-16GB RAM-256GB SSD",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/5f37777a901c2e09204cce0e4957d6222c84e173_1746281212.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+          "price": "۱۹۰,۰۰۰,۰۰۰",
+          "offPrice": "۱۸۷,۸۹۹,۰۰۰",
+          "PresentOff": "۱"
+        },
+        {
+          "id": 12,
+          "title": "شامپو تقویت کننده مو لورآل مدل Hyaluronic مناسب برای موهای خشک حجم 295 میلی لیتر",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/64959a04fc56e020690eeb332ca5c72b0c9225cf_1773509647.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+          "price": "۱,۰۰۰,۰۰۰",
+          "offPrice": "۸۰۵,۶۰۰",
+          "PresentOff": "۱۹"
+        },
+        {
+          "id": 13,
+          "title": "زودپز برقی 6 لیتری میگل مدل GPC 600",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/6a510afd5fd138e5fa7cb38e5c7a47d2fed1c922_1743368361.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+          "price": "۱۸,۰۴۹,۰۰۰",
+          "offPrice": "۱۴,۸۵۰,۰۰۰",
+          "PresentOff": "۱۸"
+        },
+        {
+          "id": 14,
+          "title": "ساخت کارد"
+        }
+      ]
+    },
+    "GreenSliderMobile": [
+      {
+        "id": 1,
+        "title": "عسل انگبین مخصوص خوانسار - 1000گرم",
+        "url": "https://dkstatics-public.digikala.com/digikala-products/df96d9990184193fea2257110789c0b651930d4c_1745302319.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+        "price": "۲,۹۰۰,۰۰۰",
+        "offPrice": "۹۸۶,۰۰۰",
+        "PresentOff": "۶۶"
+      },
+      {
+        "id": 2,
+        "title": "عسل کنار خوانسار - 1000 گرم",
+        "url": "https://dkstatics-public.digikala.com/digikala-products/0973401bb54ac1fdda51d3b334822cb3924700b2_1745302343.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+        "price": "۳,۹۰۰,۰۰۰",
+        "offPrice": "۱,۳۶۵,۰۰۰",
+        "PresentOff": "۶۵"
+      },
+      {
+        "id": 3,
+        "title": "نمک ماشین ظرفشویی فینیش مدل Spezial وزن 1200 گرم",
+        "url": "https://dkstatics-public.digikala.com/digikala-products/5f10dd58383085fb017f0095746742ac4488d3cd_1695026791.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+        "price": "۸۱۴,۱۹۰",
+        "offPrice": "۲۹۷,۹۰۰",
+        "PresentOff": "۶۴"
+      },
+      {
+        "id": 4,
+        "title": "مغز تخمه آفتابگردان خام دانه‌درشت روستاچی - 300 گرم بسته 2 عددی",
+        "url": "https://dkstatics-public.digikala.com/digikala-products/2940e6acf91675263dcc5e1decff85df09281f1b_1777456490.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+        "price": "۱,۱۰۰,۰۰۰",
+        "offPrice": "۴۱۸,۰۰۰",
+        "PresentOff": "۶۲"
+      },
+      {
+        "id": 5,
+        "title": "کرم محافظ پای کودک پسرانه آرت وینا مدل Protective حجم 75 میلی لیتر",
+        "url": "https://dkstatics-public.digikala.com/digikala-products/c653389055fca4c4584443bf3ccbe70195c1c61b_1611316240.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+        "price": "۹۹۹,۰۰۰",
+        "offPrice": "۳۹۹,۰۰۰",
+        "PresentOff": "۶۰"
+      },
+      {
+        "id": 6,
+        "title": "کرم محافظ پای کودک دخترانه آرت وینا مدل Protective حجم 75 میلی لیتر",
+        "url": "https://dkstatics-public.digikala.com/digikala-products/d87b5a54976d151ba47287f007ca04da4a83db38_1611269568.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+        "price": "۹۹۹,۰۰۰",
+        "offPrice": "۳۹۹,۰۰۰",
+        "PresentOff": "۶۰"
+      },
+      {
+        "id": 7,
+        "title": "عسل چهل گیاه ممتاز خوانسار - 1000 گرم بسته 6 عددی",
+        "url": "https://dkstatics-public.digikala.com/digikala-products/c498d0b7f21c0da1f34c50d31c9174e255965f88_1632811078.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+        "price": "۱۱,۱۰۰,۰۰۰",
+        "offPrice": "۴,۴۴۰,۰۰۰",
+        "PresentOff": "۶۰"
+      },
+      {
+        "id": 8,
+        "title": "شامپو مو آنالوکس مدل Hydrolyzed Milk مناسب انواع مو حجم 500 میلی لیتر",
+        "url": "https://dkstatics-public.digikala.com/digikala-products/3f3e5421d7127a19636eabcdb79299ec393cc6f4_1741422785.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+        "price": "۱,۹۷۹,۰۰۰",
+        "offPrice": "۷۹۷,۷۰۰",
+        "PresentOff": "۶۰"
+      },
+      {
+        "id": 9,
+        "title": "عسل چهار گیاه ممتاز خوانسار - 2000 گرم",
+        "url": "https://dkstatics-public.digikala.com/digikala-products/a69cf42fbe6be681488ce11c3c763ce575b4842e_1619336001.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+        "price": "۳,۲۵۰,۰۰۰",
+        "offPrice": "۱,۳۳۳,۰۰۰",
+        "PresentOff": "۵۹"
+      },
+      {
+        "id": 10,
+        "title": "عسل چند گل زنبورداران  -  1900 گرم",
+        "url": "https://dkstatics-public.digikala.com/digikala-products/2f8d52d40580bb450a560332096abfbe98f00396_1714341703.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+        "price": "۳,۱۹۹,۰۰۰",
+        "offPrice": "۱,۳۲۹,۰۰۰",
+        "PresentOff": "۵۸"
+      },
+      {
+        "id": 11,
+        "title": "عسل چهل گیاه ممتاز خوانسار - 1000 گرم",
+        "url": "https://dkstatics-public.digikala.com/digikala-products/f3d4a58893737b5a77c5e8657b2f121c187d2ae6_1735978496.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+        "price": "۱,۸۵۰,۰۰۰",
+        "offPrice": "۶۹۹,۰۰۰",
+        "PresentOff": "۵۸"
+      },
+      {
+        "id": 12,
+        "title": "عسل چهار گیاه ممتاز خوانسار - 1000 گرم",
+        "url": "https://dkstatics-public.digikala.com/digikala-products/97a0d57c8994f0c483567a407b24dcf41d7e9755_1716202124.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+        "price": "۱,۶۵۰,۰۰۰",
+        "offPrice": "۶۹۹,۰۰۰",
+        "PresentOff": "۵۸"
+      },
+      {
+        "id": 13,
+        "title": "سوهان گزی با جوانه گندم حاج محمد قربانی - 1000 گرم",
+        "url": "https://dkstatics-public.digikala.com/digikala-products/e85f1853569f64c1d759d0a93b4366d0be5f952b_1697259228.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+        "price": "۱,۳۵۰,۰۰۰",
+        "offPrice": "۳۹۹,۰۰۰",
+        "PresentOff": "۵۷"
+      },
+      {
+        "id": 14,
+        "title": "ساخت کارد"
+      }
+    ],
+    "BanerCard": {
+      "FourOne": [
+        {
+          "id": 1,
+          "style": "desktop:w-[24.2%] cursor-pointer desktop:rounded-2xl desktop:translate-y-[0px]! translate-y-[-1px]! rounded-[8px] w-[49%] desktop:h-[100%] h-[49%]",
+          "url": "https://dkstatics-public.digikala.com/digikala-adservice-banners/90a2629595ec498ad4c5dc1c0f713c30db593b75_1783504956.gif?x-oss-process=image?x-oss-process=image/format,webp",
+          "urlMobile": "https://dkstatics-public.digikala.com/digikala-adservice-banners/90a2629595ec498ad4c5dc1c0f713c30db593b75_1783504956.gif?x-oss-process=image?x-oss-process=image/format,webp"
+        },
+        {
+          "id": 2,
+          "style": "desktop:w-[24.2%] cursor-pointer desktop:rounded-2xl desktop:translate-y-[0px]! translate-y-[-1px]! rounded-[5px] w-[49%] desktop:h-[100%] h-[49%]",
+          "url": "https://dkstatics-public.digikala.com/digikala-adservice-banners/6fb89063bcab36fb3933edf8a6910ca3cca731d3_1781086896.jpg?x-oss-process=image/quality,q_95/format,webp",
+          "urlMobile": "https://dkstatics-public.digikala.com/digikala-adservice-banners/c2c5fcf87deea742496800dc8947d8fab94b399e_1781096081.jpg?x-oss-process=image/quality,q_95"
+        },
+        {
+          "id": 3,
+          "style": "desktop:w-[24.2%] cursor-pointer desktop:rounded-2xl rounded-[8px] w-[49%] desktop:h-[100%] h-[49%] desktop:translate-y-0 translate-y-[2px]",
+          "url": "https://dkstatics-public.digikala.com/digikala-adservice-banners/16dccac1416c92431d755bda85473559ed36ce2c_1781683366.jpg?x-oss-process=image/quality,q_95",
+          "urlMobile": "https://dkstatics-public.digikala.com/digikala-adservice-banners/aaac1e72c63cbe5c026e3e62d8179537f4da7087_1781358767.jpg?x-oss-process=image/quality,q_95"
+        },
+        {
+          "id": 4,
+          "style": "desktop:w-[24.2%] cursor-pointer desktop:rounded-2xl rounded-[8px] w-[49%] desktop:h-[100%] h-[49%] desktop:translate-y-0 translate-y-[2px]",
+          "url": "https://dkstatics-public.digikala.com/digikala-adservice-banners/76d831a595ba510278b13253655411ec5ce3052e_1781538973.jpg?x-oss-process=image/quality,q_95/format,webp",
+          "urlMobile": "https://dkstatics-public.digikala.com/digikala-adservice-banners/bb93ec63d562e8fb5f29edec2dffca4861ceb95c_1780385464.jpg?x-oss-process=image/quality,q_95"
+        }
+      ],
+      "OneBanerBig": {
+        "url1": "https://www.digikala.com/statics/img/png/amazing/fresh.webp",
+        "url2": "https://www.digikala.com/statics/img/svg/amazing/fresh-incredible-offer.svg",
+        "textGreen": "تا ۴۰٪ تخفیف",
+        "urlProducts": [
+          {
+            "id": 1,
+            "off": "۴۰",
+            "url": "https://dkstatics-public.digikala.com/digikala-products/5a303470d30d4f6cbfbf1d15f60b16ad931d989a_1661770457.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80"
+          },
+          {
+            "id": 2,
+            "off": "۴۰",
+            "url": "https://dkstatics-public.digikala.com/digikala-products/896e6c380113e7e2a2844aff37b174022a6f922e_1671450649.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80"
+          },
+          {
+            "id": 3,
+            "off": "۴۰",
+            "url": "https://dkstatics-public.digikala.com/digikala-products/e2b70c05aa20cad28ee7424932173edcecae052c_1778008106.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80"
+          },
+          {
+            "id": 4,
+            "off": "۴۰",
+            "url": "https://dkstatics-public.digikala.com/digikala-products/89b5ea0f9815ca8e4d527548bcbc41a2f37a7a85_1722864800.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80"
+          },
+          {
+            "id": 5,
+            "off": "۴۰",
+            "url": "https://dkstatics-public.digikala.com/digikala-products/c4f08d12ac9c8c72b546fb6e2b5b6fae2cb2f714_1690280034.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80"
+          },
+          {
+            "id": 6,
+            "off": "۴۰",
+            "url": "https://dkstatics-public.digikala.com/digikala-products/4096215.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80"
+          }
+        ]
+      },
+      "FourTwo": [
+        {
+          "id": 1,
+          "url": "https://dkstatics-public.digikala.com/digikala-adservice-banners/c56fbd1c04dc08daee85554c10bcb1fc63d90087_1781084653.jpg?x-oss-process=image/quality,q_95/format,webp",
+          "style": "desktop:w-[24.2%] cursor-pointer desktop:rounded-2xl desktop:translate-y-[0px]! translate-y-[-1px]! rounded-[8px] w-[49%] desktop:h-[100%] h-[49%]",
+          "urlMobile": "https://dkstatics-public.digikala.com/digikala-adservice-banners/c56fbd1c04dc08daee85554c10bcb1fc63d90087_1781084653.jpg?x-oss-process=image/quality,q_95"
+        },
+        {
+          "id": 2,
+          "url": "https://dkstatics-public.digikala.com/digikala-adservice-banners/84b60c7e8036bffef0a800fd664828c180e06822_1782916027.gif?x-oss-process=image?x-oss-process=image/format,webp",
+          "style": "desktop:w-[24.2%] cursor-pointer desktop:rounded-2xl desktop:translate-y-[0px]! translate-y-[-1px]! rounded-[8px] w-[49%] desktop:h-[100%] h-[49%]",
+          "urlMobile": "https://dkstatics-public.digikala.com/digikala-adservice-banners/3bfe001a9e08a18cbd46a8b47a28abb63ddfce7b_1781085010.jpg?x-oss-process=image/quality,q_95"
+        },
+        {
+          "id": 3,
+          "url": "https://dkstatics-public.digikala.com/digikala-adservice-banners/5af6360a1dc0b6bab64dc94113730a93f57a111b_1781085709.jpg?x-oss-process=image/quality,q_95/format,webp",
+          "style": "desktop:w-[24.2%] cursor-pointer desktop:rounded-2xl rounded-[8px] w-[49%] desktop:h-[100%] h-[49%] desktop:translate-y-0 translate-y-[2px]",
+          "urlMobile": "https://dkstatics-public.digikala.com/digikala-adservice-banners/5af6360a1dc0b6bab64dc94113730a93f57a111b_1781085708.jpg?x-oss-process=image/quality,q_95"
+        },
+        {
+          "id": 4,
+          "url": "https://dkstatics-public.digikala.com/digikala-adservice-banners/ba5484a033f6c82e25676c69177e0197cf7f458d_1779525558.jpg?x-oss-process=image/quality,q_95/format,webp",
+          "style": "desktop:w-[24.2%] cursor-pointer desktop:rounded-2xl rounded-[8px] w-[49%] desktop:h-[100%] h-[49%] desktop:translate-y-0 translate-y-[2px]",
+          "urlMobile": "https://dkstatics-public.digikala.com/digikala-adservice-banners/88e442c2df94e4218a2c57efaad98f58a7e23c66_1780726137.jpg?x-oss-process=image/quality,q_95"
+        }
+      ],
+      "TwoBanerBig": {
+        "id": 1,
+        "url1": "https://dkstatics-public.digikala.com/digikala-adservice-banners/c7b79c2fd979fe0deba353dd12db509b874204ce_1781694702.jpg?x-oss-process=image/quality,q_95/format,webp",
+        "url2": "https://dkstatics-public.digikala.com/digikala-adservice-banners/10d918b42476f09050028f757fd5c046350aeb89_1781097933.jpg?x-oss-process=image/quality,q_95/format,webp"
+      },
+      "TwoBanerBig2": {
+        "url1": "https://dkstatics-public.digikala.com/digikala-adservice-banners/b6ef99c4dad84f903d8c5dd435c835c22fe8a084_1782910595.jpg?x-oss-process=image/quality,q_95/format,webp",
+        "url2": "https://dkstatics-public.digikala.com/digikala-adservice-banners/5c62a0c5db5c0beb77f4056b91ed6463f230ded3_1782882423.jpg?x-oss-process=image/quality,q_95/format,webp"
+      }
+    },
+    "BrownSlider": {
+      "titleBrownSlider": {
+        "icon": "../../../public/Images/maket.png",
+        "title": "ارسال ۳ ساعته فروشنده",
+        "link": "مشاهده همه"
+      },
+      "addressBrownSlider": {
+        "id": 1,
+        "title": "تحویل به اسکندری جنوبی، خ. بهزاد، نرسیده به خ. جمهوری اسلامی"
+      },
+      "MiniBrownSlider": [
+        {
+          "id": 1,
+          "title": "همه"
+        },
+        {
+          "id": 2,
+          "title": "آرایشی و بهداشتی"
+        },
+        {
+          "id": 3,
+          "title": "مد و پوشاک"
+        },
+        {
+          "id": 4,
+          "title": "طلا و نقره"
+        },
+        {
+          "id": 5,
+          "title": "سلامت و پزشکی"
+        },
+        {
+          "id": 6,
+          "title": "پت شاپ"
+        },
+        {
+          "id": 7,
+          "title": "کالای دیجیتال"
+        },
+        {
+          "id": 8,
+          "title": "ورزش و سفر"
+        },
+        {
+          "id": 9,
+          "title": "کتاب و لوازم تحریر"
+        },
+        {
+          "id": 10,
+          "title": "اسباب بازی"
+        }
+      ],
+      "BrownSlidr": [
+        {
+          "id": 1,
+          "title": "هدفون بلوتوثی انکر مدل SoundCore R50i A3949 بدون قابلیت نویز کنسلینگ، درگاه شارژ USB Type-C، دارای فناوری AI-Enhanced Calls برای کاهش نویز و بهبود مکالمات، مقاوم در برابر رطوبت و عرق",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/487620e2936e1dd07238849a058fe472da39c1a5_1745824997.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+          "offPrice": "۲,۴۰۰,۰۰۰"
+        },
+        {
+          "id": 2,
+          "title": "گوشی موبایل شیائومی مدل Redmi Note 14 4G دو سیم کارت ظرفیت 256 گیگابایت و رم 8 گیگابایت",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/c0a7ce006d11c222bce16bd3cdd8d79aeb6689bc_1738134271.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+          "offPrice": "۳۵,۵۰۰,۰۰۰"
+        },
+        {
+          "id": 3,
+          "title": "قرص منیزیم بیس گلایسینات یوروویتال بسته 60 عددی",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/fe1b5e636faa0b80fd93f75922bfcb17721d7b57_1724151006.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+          "numberPrice": "۴۷",
+          "price": "۱,۱۳۵,۲۰۰",
+          "offPrice": "۵۹۸,۰۰۰"
+        },
+        {
+          "id": 4,
+          "title": "کپسول مگنیفورت هولیستیکا بسته 32 عددی",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/bbd607ee3a612dda2baaf12ef62a8ff2dc8a83fa_1602004475.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+          "numberPrice": "۲۲",
+          "price": "۴۵۱,۰۰۰",
+          "offPrice": "۳۵۰,۰۰۰"
+        },
+        {
+          "id": 5,
+          "title": "پودر پروتئین با طعم شکلات کاله پرو - 1800 گرم",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/32d297741c7e8f8872ba6b721a9ca37d98a41788_1754247026.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+          "numberPrice": "۵",
+          "price": "۷,۳۰۰,۰۰۰",
+          "offPrice": "۶,۹۰۰,۰۰۰"
+        },
+        {
+          "id": 6,
+          "title": "هدفون بلوتوثی انکر مدل R50i NC با حذف نویز فعال (ANC)، درگاه شارژ USB Type-C، باتری قابل شارژ تا 45 ساعت، مقاوم در برابر پاشش آب و گرد و غبار",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/32af07490073ae17e5529365a8eb1ebf68e091b4_1745827632.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+          "offPrice": "۳,۵۰۰,۰۰۰"
+        },
+        {
+          "id": 7,
+          "title": "گوشی موبایل سامسونگ مدل Galaxy S25 FE دو سیم کارت ظرفیت 256 گیگابایت و رم 8 گیگابایت - ویتنام",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/55582a9ac4add1b88050b458e7d490564b3ac4b6_1759667022.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+          "offPrice": "۱۲۳,۳۹۰,۰۰۰"
+        },
+        {
+          "id": 8,
+          "title": "قرص ویتامین D3-1000 واحدی  بسته 60 عددی",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/c64720f4446aa94b873dab4ae35091bc3f0fcc22_1637680139.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+          "numberPrice": "۳۱",
+          "price": "۲۴۲,۰۰۰",
+          "offPrice": "۱۶۸,۰۰۰"
+        },
+        {
+          "id": 9,
+          "title": "محلول تقویت کننده مژه سریتا مدل Eyelash lotion حجم 8 میلی لیتر",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/6f9919f2ed2bcc7cdb9ee9842f45231f88757faf_1713255251.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+          "offPrice": "۱,۵۸۰,۰۰۰"
+        },
+        {
+          "id": 10,
+          "title": "گوشی موبایل سامسونگ مدل Galaxy A07 دو سیم کارت ظرفیت 128گیگابایت و رم 6 گیگابایت ",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/6f9919f2ed2bcc7cdb9ee9842f45231f88757faf_1713255251.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+          "offPrice": "۲۴,۸۹۰,۰۰۰"
+        },
+        {
+          "id": 11,
+          "title": "قرص زینک پلاس یوروویتال 15 میلی گرم بسته 60 عددی",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/6f91e858eee6155c79072f6f567159f07f5fee91_1657114410.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+          "numberPrice": "۳۶",
+          "price": "۶۶۰,۰۰۰",
+          "offPrice": "۴۲۰,۰۰۰"
+        },
+        {
+          "id": 12,
+          "title": "گوشی موبایل سامسونگ مدل Galaxy A56 دو سیم کارت ظرفیت 256 گیگابایت و رم 8 گیگابایت - ویتنام",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/abb89918836e519343bdad17448cda4adeff4d4e_1746028045.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+          "offPrice": "۸۲,۵۰۰,۰۰۰"
+        },
+        {
+          "id": 13,
+          "title": "گوشی موبایل شیائومی مدل Redmi Note 15 4G دو سیم کارت ظرفیت 256 گیگابایت و رم 8 گیگابایت",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/8f4c60af446ea82cd1ef27e1f182c94afaf0a990_1771749697.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+          "offPrice": "۴۱,۵۰۰,۰۰۰"
+        },
+        {
+          "id": 14,
+          "title": "کپسول ژلاتینی امگا 3 یوروویتال بسته 30 عددی",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/9d2f1dbce14414b9c17025b20acfcb1abf7f9f99_1651483015.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+          "numberPrice": "۵",
+          "price": "۵۸۸,۶۰۰",
+          "offPrice": "۵۶۰,۰۰۰"
+        },
+        {
+          "id": 15,
+          "title": "کپسول ویتامین ای 400 واحد یوروویتال بسته 40 عددی",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/e2b0964d6225689b73e05e10d5529102ca6e10ec_1700034169.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+          "numberPrice": "۴۴",
+          "price": "۷۹۲,۰۰۰",
+          "offPrice": "۴۴۰,۰۰۰"
+        }
+      ]
+    },
+    "TwiceSlider": [
+      {
+        "id": 1,
+        "title": "موبایل",
+        "url": "https://dkstatics-public.digikala.com/digikala-mega-menu/09a98a13c782e12a245930b4515d243b17734a33_1740299441.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+      },
+      {
+        "id": 2,
+        "title": "سلامت و پزشکی",
+        "url": "https://dkstatics-public.digikala.com/digikala-mega-menu/deb3f514c62761797eb6a49e1559268b8bce3219_1740299561.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+      },
+      {
+        "id": 3,
+        "title": "لپ تاپ",
+        "url": "https://dkstatics-public.digikala.com/digikala-mega-menu/7cf1fed6dac6bdfd1b888db6bf8f443ea680244b_1748692252.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+      },
+      {
+        "id": 4,
+        "title": "ابزارآلات و تجهیزات",
+        "url": "https://dkstatics-public.digikala.com/digikala-mega-menu/fb6303218362cd2c48b40fef5da89ad33a5c04d7_1740299524.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+      },
+      {
+        "id": 5,
+        "title": "کالای دیجیتال",
+        "url": "https://dkstatics-public.digikala.com/digikala-mega-menu/151ec29bae111afd3b6a0e71cec5c4c26f1c3014_1740299456.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+      },
+      {
+        "id": 6,
+        "title": "کتاب و هنر",
+        "url": "https://dkstatics-public.digikala.com/digikala-mega-menu/0cdf9c404e509371c3177a334be948a7e500419c_1740299574.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+      },
+      {
+        "id": 7,
+        "title": "خانه و آشپزخانه",
+        "url": "https://dkstatics-public.digikala.com/digikala-mega-menu/8a042388b93c5116604f35092a1fb35f8f0756be_1740299467.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+      },
+      {
+        "id": 8,
+        "title": "ورزش و سفر",
+        "url": "https://dkstatics-public.digikala.com/digikala-mega-menu/4d4582205d0d5045c2bd94c5e910bbb49ae4fd4e_1740299590.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+      },
+      {
+        "id": 9,
+        "title": "لوازم خانگی برقی",
+        "url": "https://dkstatics-public.digikala.com/digikala-mega-menu/d825f64f509cd5067a9022528c465e8ca705f60d_1740299511.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+      },
+      {
+        "id": 10,
+        "title": "کارت هدیه و گیفت کارت",
+        "url": "https://dkstatics-public.digikala.com/digikala-mega-menu/f35b3eba7de8bf2432fff4f53abfa8cbaa6e71d6_1740299603.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+      },
+      {
+        "id": 11,
+        "title": "آرایشی بهداشتی",
+        "url": "https://dkstatics-public.digikala.com/digikala-mega-menu/b196bbdea97f57bfac02dc1666d7401b16ee4bcb_1740299482.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+      },
+      {
+        "id": 12,
+        "title": "سوپر مارکت آنلاین",
+        "url": "https://dkstatics-public.digikala.com/digikala-mega-menu/7adb0cc6edc18a6d04b9ba3bdd424b1bcce47848_1740299618.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+      },
+      {
+        "id": 13,
+        "title": "مد و پوشاک",
+        "url": "https://dkstatics-public.digikala.com/digikala-mega-menu/b3d4eaefebe67ab8d849296ea2e7e113cde8094c_1740299538.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+      },
+      {
+        "id": 14,
+        "title": "اسباب بازی، کودک و نوزاد",
+        "url": "https://dkstatics-public.digikala.com/digikala-mega-menu/6f5284dccdb280616bbfe58533ecc483de4639af_1740299648.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+      },
+      {
+        "id": 15,
+        "title": "طلا و نقره",
+        "url": "https://dkstatics-public.digikala.com/digikala-mega-menu/78135af4274ad7b7fcdaec7e5912689e5f5db96a_1740299548.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+      },
+      {
+        "id": 16,
+        "title": "محصولات بومی و محلی",
+        "url": "https://dkstatics-public.digikala.com/digikala-mega-menu/9a4dfac524f8a865f9f69e38d5434fa69fe63e3b_1740299663.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+      },
+      {
+        "id": 17,
+        "title": "خودرو و موتورسیکلت",
+        "url": "https://dkstatics-public.digikala.com/digikala-mega-menu/03552aa1293fec9f43477814ca62afdacdac18e3_1740299496.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+      },
+      {
+        "id": 18,
+        "title": "پت شاپ",
+        "url": "https://dkstatics-public.digikala.com/digikala-mega-menu/6f236efd9caae4d1c3177f37c483aa44c3092b6a_1753614680.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+      }
+    ],
+    "BrandSlider": {
+      "head": {
+        "title": "محبوب‌ترین برندها",
+        "url": "../../../../public/Images/Star.png"
+      },
+      "Slides": [
+        {
+          "id": 1,
+          "title": "پریل",
+          "url": "https://dkstatics-public.digikala.com/digikala-brands/2c36ceb629598fa31b9b321fcd4e47773bd93ef7_1649498016.png?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80"
+        },
+        {
+          "id": 2,
+          "title": "پرسیل",
+          "url": "https://dkstatics-public.digikala.com/digikala-brands/7d615272ba7fc5dd708195ae858e2971de86a06f_1649498033.png?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80"
+        },
+        {
+          "id": 3,
+          "title": "چرم مشهد",
+          "url": "https://dkstatics-public.digikala.com/digikala-brands/9f5727fd7c13dc4b10c879a1865d77bc1fb333ce_1705308969.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80"
+        },
+        {
+          "id": 4,
+          "title": "ایکس ویژن",
+          "url": "https://dkstatics-public.digikala.com/digikala-brands/d23e8875d5f7a9735e433f1fd86a1513902efc8b_1604470597.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80"
+        },
+        {
+          "id": 5,
+          "title": "",
+          "url": "https://dkstatics-public.digikala.com/digikala-brands/3e0100126c0bccc9cbb02aa6f869eac6c1240027_1607154301.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80"
+        },
+        {
+          "id": 6,
+          "title": "",
+          "url": "https://dkstatics-public.digikala.com/digikala-brands/3aa3b23b69f8b1f562701129bc9b12a280ab7320_1697869714.png?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80"
+        },
+        {
+          "id": 7,
+          "title": "",
+          "url": "https://dkstatics-public.digikala.com/digikala-brands/65162e05909586440af8f4a54aa6f42ee9c5e371_1621322522.png?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80"
+        },
+        {
+          "id": 8,
+          "title": "",
+          "url": "https://dkstatics-public.digikala.com/digikala-brands/4845cc945928ed61c91e20e9db16edf86aee5306_1771843142.png?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80"
+        },
+        {
+          "id": 9,
+          "title": "",
+          "url": "https://dkstatics-public.digikala.com/digikala-brands/dc6899b09e8efdea8d66772115f98d9a58a61a69_1666692914.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80"
+        },
+        {
+          "id": 10,
+          "title": "",
+          "url": "https://dkstatics-public.digikala.com/digikala-brands/100009587.png?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80"
+        },
+        {
+          "id": 11,
+          "title": "",
+          "url": "https://dkstatics-public.digikala.com/digikala-brands/f9e0b349ab0cb79e8a009d39022b8e1ec2573f48_1692540818.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80"
+        },
+        {
+          "id": 12,
+          "title": "",
+          "url": "https://dkstatics-public.digikala.com/digikala-brands/e44886020b773202d6d431e2fef2f3bd8bd3bc7f_1737817444.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80"
+        },
+        {
+          "id": 13,
+          "title": "",
+          "url": "https://dkstatics-public.digikala.com/digikala-brands/efb14accdad9be1b2176aa0317c8bbac43733831_1609325767.png?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80"
+        },
+        {
+          "id": 14,
+          "title": "",
+          "url": "https://dkstatics-public.digikala.com/digikala-brands/87dcb454f4d8df28bd2f8fd902f0f27b5fb1fac4_1666761801.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80"
+        },
+        {
+          "id": 15,
+          "title": "",
+          "url": "https://dkstatics-public.digikala.com/digikala-brands/3960.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80"
+        },
+        {
+          "id": 16,
+          "title": "",
+          "url": "https://dkstatics-public.digikala.com/digikala-brands/1313.png?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80"
+        },
+        {
+          "id": 17,
+          "title": "",
+          "url": "https://dkstatics-public.digikala.com/digikala-brands/311.png?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80"
+        },
+        {
+          "id": 18,
+          "title": "",
+          "url": "https://dkstatics-public.digikala.com/digikala-brands/0af5bb140d34d042a7809e2a9f6488b1c6929559_1720363228.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80"
+        },
+        {
+          "id": 19,
+          "title": "",
+          "url": "https://dkstatics-public.digikala.com/digikala-brands/100008301.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80"
+        }
+      ]
+    },
+    "AgainSlider": {
+      "head1": {
+        "title": "کیف و کاور گوشی",
+        "title2": "مشاهده همه",
+        "title3": "بر اساس سلیقه شما"
+      },
+      "Tabel1": [
+        {
+          "id": 1,
+          "title": "کاور موکولو مدل Silicone Puffer Strap مناسب برای گوشی موبایل سامسونگ Galaxy A56 5G به همراه بند آویز",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/52100a97f7e24067a851a4a1823c67362b654fdf_1740482787.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+          "discount": "۱۵",
+          "price": "۳۹۹,۰۰۰",
+          "state": true,
+          "discountPrice": "۳۳۹,۱۵۰"
+        },
+        {
+          "id": 2,
+          "title": "کاور کلاسیک مدل سیلیکون پاک کد KHO.388 مناسب برای گوشی موبایل اپل IPHONE 14 PRO MAX",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/5673fd386fc4feac341a0bd90f806ea4d452af14_1758229900.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+          "discount": "۱۱",
+          "price": "۳۸۰,۰۰۰",
+          "state": true,
+          "discountPrice": "۳۳۳,۸۳۰"
+        },
+        {
+          "id": 3,
+          "title": "کاور موفی مدل MagSil مناسب برای گوشی موبایل سامسونگ Galaxy S25 FE",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/0019e266bf72c4f470f662798c30ec3952fdb398_1765202032.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+          "state": false,
+          "discountPrice": "۷۰۸,۰۰۰"
+        },
+        {
+          "id": 4,
+          "title": " کاور نیلکین مدل CamShield Pro مناسب برای گوشی موبایل سامسونگ Galaxy S25 FE",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/270143b67b0ae5b139ff614e5383bc0e3d5f8b8e_1759304383.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+          "state": false,
+          "discountPrice": "۱,۵۹۰,۱۷۰"
+        },
+        {
+          "id": 5,
+          "title": "کاور مدل ژله ای مناسب برای گوشی موبایل اپل IPhone 13",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/fcc45ba6efa0987e2ead5cc45bb7c3fb9de63d7e_1653851268.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+          "state": false,
+          "discountPrice": "۱۵۳,۰۰۰"
+        },
+        {
+          "id": 6,
+          "title": "کاور گوف مدل Clear مناسب برای گوشی موبایل سامسونگ Galaxy A17 ",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/c93a40a0a849cec3923970f2c31f91150a5afef0_1759919899.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+          "state": false,
+          "discountPrice": "۲۶۱,۰۰۰"
+        },
+        {
+          "id": 7,
+          "title": "کاور سامورایی مدل Cool Stand مناسب برای گوشی موبایل سامسونگ Galaxy A56",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/648c1b8a2e7ac6c8d5555b2008c2ed326c661b56_1768991476.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+          "discount": "۲۹",
+          "price": "۱,۲۰۰,۰۰۰",
+          "state": true,
+          "discountPrice": "۸۴۹,۰۰۰"
+        },
+        {
+          "id": 8,
+          "title": "کاور نیلکین مدل Camshield Pro مناسب برای گوشی موبایل اپل iPhone 17 Pro Max",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/123647543c3b283a001d736acb4f6767598d7202_1758109295.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+          "discount": "۳۵",
+          "price": "۲,۰۰۰,۰۰۰",
+          "state": true,
+          "discountPrice": "۱,۳۰۰,۰۰۰"
+        },
+        {
+          "id": 9,
+          "title": "کاور گرین لاین مدل Magsafe Crystal Clear مناسب برای گوشی موبایل اپل Iphone 17 Pro Max",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/c183c3505f3542edda988240543e02bfc7315ffb_1763803643.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+          "state": false,
+          "discountPrice": "۱,۸۵۰,۰۰۰"
+        },
+        {
+          "id": 10,
+          "title": "اضافه کردن",
+          "state": "last"
+        }
+      ],
+      "head2": {
+        "title": "ویتامین‌ها و مواد معدنی",
+        "title2": "مشاهده همه",
+        "title3": "بر اساس سلیقه شما"
+      },
+      "Tabel2": [
+        {
+          "id": 1,
+          "title": "قرص ویتامین D3-1000 واحدی  بسته 60 عددی",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/c64720f4446aa94b873dab4ae35091bc3f0fcc22_1637680139.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+          "discount": "۲۹",
+          "price": "۲۴۲,۰۰۰",
+          "state": true,
+          "discountPrice": "۱۷۲,۰۰۰"
+        },
+        {
+          "id": 2,
+          "title": "سافت ژل امگا 3 وانا مکس نورم لایف بسته 60 عددی ",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/c01eff4d0f0beafee23e45207c507b8310e243ea_1620731965.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+          "discount": "۳۵",
+          "price": "۹۹۰,۰۰۰",
+          "state": true,
+          "discountPrice": "۶۴۰,۰۰۰"
+        },
+        {
+          "id": 3,
+          "title": "کپسول ژلاتینی نرم زینک پلاس فلکسان بسته 60 ععدی",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/34a28cdec9e82eed86547d2695067d13615289d8_1624175632.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+          "discount": "۷۲",
+          "price": "۱,۰۵۶,۰۰۰",
+          "state": true,
+          "discountPrice": "۲۹۹,۰۰۰"
+        },
+        {
+          "id": 4,
+          "title": "قرص زینک پلاس پابا یوروویتال بسته 60 عددی",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/58fad2977c290c0914aeb1f1ece4c51183296e42_1714646605.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+          "discount": "۶۸",
+          "price": "۹۲۴,۰۰۰",
+          "state": true,
+          "discountPrice": "۲۹۹,۰۰۰"
+        },
+        {
+          "id": 5,
+          "title": "قرص اکوفاین یوروویتال بسته 60 عددی",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/5233d3f6cfeca2904e6f006bbcc18aeff43ca289_1669625068.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+          "discount": "۸۶",
+          "price": "۱,۳۸۶,۰۰۰",
+          "state": true,
+          "discountPrice": "۲۰۰,۰۰۰"
+        },
+        {
+          "id": 6,
+          "title": "قرص ویتامین ب کمپلکس یوروویتال بسته 60 عددی",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/82816f40394046483de2a5fff20f81b543ea59e9_1693749874.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+          "discount": "۴۴",
+          "price": "۵۷۴,۲۰۰",
+          "state": true,
+          "discountPrice": "۳۲۰,۰۰۰"
+        },
+        {
+          "id": 7,
+          "title": "کپسول نورو بی ویت یوروویتال بسته 60 عددی",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/401a4236fba733fa256c77cdafa2e7e0a8a30884_1705823257.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+          "discount": "۷۹",
+          "price": "۶۲۷,۰۰۰",
+          "state": true,
+          "discountPrice": "۱۳۰,۰۰۰"
+        },
+        {
+          "id": 8,
+          "title": "ویال ویتامین ب 12 - 1000 میلی گرم با طعم پرتقال فورت ای بسته 10 عددی",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/eadc2b9263da394dc5eb75b8420d0e7f7a2a2334_1779808263.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+          "discount": "۸۲",
+          "price": "۲۲۰,۰۰۰",
+          "state": true,
+          "discountPrice": "۴۰,۰۰۰"
+        },
+        {
+          "id": 9,
+          "title": "کپسول ب 12 یوروویتال - 1000میلی گرم بسته 60 عددی",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/564f101b4138786868f01e71f0dce0355a060930_1753262118.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+          "discount": "۴۵",
+          "price": "۴۲۹,۰۰۰",
+          "state": true,
+          "discountPrice": "۲۳۵,۰۰۰"
+        },
+        {
+          "id": 10,
+          "title": "اضافه کردن",
+          "state": "last"
+        }
+      ],
+      "head3": {
+        "title": "هدفون، هدست و هندزفری",
+        "title2": "مشاهده همه",
+        "title3": "بر اساس سلیقه شما"
+      },
+      "Tabel3": [
+        {
+          "id": 1,
+          "title": "هدفون بلوتوثی سامسونگ مدل Galaxy Buds 4 Pro",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/d6e3aea6327348c6fbc3ba1618fcede10b5e32f7_1772541335.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+          "state": false,
+          "discountPrice": "۲۸,۴۹۰,۰۰۰"
+        },
+        {
+          "id": 2,
+          "title": "هدفون بلوتوثی انکر مدل Liberty 4 Pro دارای نویز کنسلینگ فعال (ANC)، درگاه شارژ USB Type-C، با قابلیت اتصال به چند دستگاه، پشتیبانی از فرمان لمسی، نمایشگر روی صفحه محفظه شارژ، نشانگر LED، مقاومت در برابر رطوبت و عرق",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/0586d359e660c8a86f677478c7dc18a630ecc1b1_1745827637.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+          "discount": "۳۰",
+          "price": "۱۹,۰۹۳,۷۰۰",
+          "state": true,
+          "discountPrice": "۱۳,۴۲۳,۷۰۰"
+        },
+        {
+          "id": 3,
+          "title": "هدفون بلوتوثی اپل مدل AirPods Pro 3",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/efed8eafb77eda719a53648f46da4ce8d13e9a71_1757750677.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+          "state": false,
+          "discountPrice": "۳۶,۱۸۰,۰۰۰"
+        },
+        {
+          "id": 4,
+          "title": "هدفون بلوتوثی انکر مدل SoundCore R50i A3949 بدون قابلیت نویز کنسلینگ، درگاه شارژ USB Type-C، دارای فناوری AI-Enhanced Calls برای کاهش نویز و بهبود مکالمات، مقاوم در برابر رطوبت و عرق",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/487620e2936e1dd07238849a058fe472da39c1a5_1745824997.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+          "state": false,
+          "discountPrice": "۱,۹۵۹,۰۰۰"
+        },
+        {
+          "id": 5,
+          "title": "هدفون بلوتوثی انکر مدل R50i NC با حذف نویز فعال (ANC)، درگاه شارژ USB Type-C، باتری قابل شارژ تا 45 ساعت، مقاوم در برابر پاشش آب و گرد و غبار",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/32af07490073ae17e5529365a8eb1ebf68e091b4_1745827632.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+          "discount": "۲۰",
+          "price": "۳,۷۰۰,۰۰۰",
+          "state": true,
+          "discountPrice": "۲,۹۶۹,۰۰۰"
+        },
+        {
+          "id": 6,
+          "title": "هدفون بلوتوثی موزیک آپولو مدل AP-07",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/1cd4b0b184b487f55191ec9358bd6d5030b398a6_1781779192.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+          "discount": "۹۰",
+          "price": "۹,۹۰۰,۰۰۰",
+          "state": true,
+          "discountPrice": "۹۹۰,۰۰۰"
+        },
+        {
+          "id": 7,
+          "title": "هدفون بلوتوثی شیائومی مدل Redmi Buds 6 Play با نویز کنسلینگ میکروفون (ENC)، درگاه شارژ USB Type-C، با قابلیت اتصال به چند دستگاه، دارای تکنولوژی صدای 360، دارای قابلیت شارژ سریع، مقاوم در برابر پاشش آب (IPX4)",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/c42de26bce7964367d48b1c31d13e5fa1e7fd921_1745827640.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+          "state": true,
+          "discountPrice": "۲,۰۳۶,۹۶۰"
+        },
+        {
+          "id": 8,
+          "title": "هدفون بلوتوثی شیائومی مدل Redmi Buds 6 Play با نویز کنسلینگ میکروفون (ENC)، درگاه شارژ USB Type-C، با قابلیت اتصال به چند دستگاه، دارای تکنولوژی صدای 360، دارای قابلیت شارژ سریع، مقاوم در برابر پاشش آب (IPX4)",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/0e050bbf94c162e15c7ce051c9b9b18c617a07c8_1780840203.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+          "discount": "۸۹",
+          "price": "۳۱,۸۰۰,۰۰۰",
+          "state": true,
+          "discountPrice": "۳,۳۵۰,۰۰۰"
+        },
+        {
+          "id": 9,
+          "title": "هدفون بلوتوثی کیو سی وای مدل Crossky C30 با نویز کنسلینگ میکروفون (ENC)، درگاه شارژ USB Type-C، دارای میکروفون دوگانه، مقاوم در برابر آب و گرد و غبار با استاندارد IPX4",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/0162c7d7ca227eccbe536823f77ad091b4493f96_1754240328.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+          "state": true,
+          "discountPrice": "۳,۷۹۰,۰۰۰"
+        },
+        {
+          "id": 10,
+          "title": "اضافه کردن",
+          "state": "last"
+        }
+      ],
+      "head4": {
+        "title": "گوشی موبایل",
+        "title2": "مشاهده همه",
+        "title3": "بر اساس سلیقه شما"
+      },
+      "Tabel4": [
+        {
+          "id": 1,
+          "title": "گوشی موبایل سامسونگ مدل Galaxy S25 Ultra دو سیم کارت ظرفیت 256 گیگابایت و رم 12 گیگابایت - پک ویتنام",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/2342ad87776c9801a8116d41950cb5909bddc16b_1738145086.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+          "discount": "۳",
+          "price": "۲۴۵,۷۵۲,۹۰۰",
+          "state": true,
+          "discountPrice": "۲۳۸,۳۸۰,۴۰۰"
+        },
+        {
+          "id": 2,
+          "title": "گوشی موبایل اپل مدل iPhone 17 Pro Max ZAA تک سیم کارت + eSim ظرفیت 256 گیگابایت و رم 12 گیگابایت - نات اکتیو ",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/ec57ce03f2a92834058f502174b1a2aeffc9a580_1759666637.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+          "state": false,
+          "discountPrice": "۳۵۸,۹۹۹,۰۰۰"
+        },
+        {
+          "id": 3,
+          "title": "گوشی موبایل موتورولا مدل Edge 60 Fusion دو سیم کارت ظرفیت 256 گیگابایت و رم 12 گیگابایت",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/3b15e1f3d948a5b12103a4faf9d3bfe8a3d0a48e_1767796426.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+          "discount": "۳",
+          "price": "۸۴,۰۳۵,۴۰۰",
+          "state": true,
+          "discountPrice": "۸۱,۵۱۴,۴۰۰"
+        },
+        {
+          "id": 4,
+          "title": "گوشی موبایل ناتینگ مدل Phone 2a دو سیم کارت ظرفیت 128 گیگابایت رم 8 گیگابایت ",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/d9688d826d83753e1506b11e06360bbc4a250af6_1766841450.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+          "discount": "۳",
+          "price": "۵۶,۹۹۰,۰۰۰",
+          "state": true,
+          "discountPrice": "۵۵,۴۹۹,۰۰۰"
+        },
+        {
+          "id": 5,
+          "title": "گوشی موبایل شیائومی مدل Poco X7 Pro دو سیم کارت ظرفیت 512 گیگابایت و رم 12 گیگابایت - گلوبال",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/6144c3fdde10110e4312420db31e07f42e2cfc3a_1738146333.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+          "discount": "۳",
+          "price": "۸۵,۰۶۷,۴۰۰",
+          "state": true,
+          "discountPrice": "۸۲,۵۱۵,۴۰۰"
+        },
+        {
+          "id": 6,
+          "title": "گوشی موبایل اپل مدل iPhone 17 CH دو سیم کارت ظرفیت 256 گیگابایت و رم 8 گیگابایت - نات اکتیو",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/0a8fff942ea8ee0359edadad85daae399b0e357c_1763462145.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+          "state": false,
+          "discountPrice": "۲۳۴,۹۹۹,۰۰۰"
+        },
+        {
+          "id": 7,
+          "title": "گوشی موبایل سامسونگ مدل Galaxy S25 FE دو سیم کارت ظرفیت 256 گیگابایت و رم 8 گیگابایت - ویتنام",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/55582a9ac4add1b88050b458e7d490564b3ac4b6_1759667022.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+          "discount": "۳",
+          "price": "۱۱۹,۵۶۵,۸۰۰",
+          "state": true,
+          "discountPrice": "۱۱۵,۹۷۸,۹۰۰"
+        },
+        {
+          "id": 8,
+          "title": "گوشی موبایل سامسونگ مدل Galaxy A56 دو سیم کارت ظرفیت 256 گیگابایت و رم 12 گیگابایت - ویتنام",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/36bc74a654bd32f152b13a2f8f283cf5bb71b370_1746028011.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+          "state": false,
+          "discountPrice": "۹۰,۸۶۰,۱۱۰"
+        },
+        {
+          "id": 9,
+          "title": "گوشی موبایل شیائومی مدل Redmi Note 15 4G دو سیم کارت ظرفیت 256 گیگابایت و رم 8 گیگابایت",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/8f4c60af446ea82cd1ef27e1f182c94afaf0a990_1771749697.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+          "discount": "۳",
+          "price": "۴۲,۶۰۷,۹۰۰",
+          "state": true,
+          "discountPrice": "۴۱,۳۲۹,۷۰۰"
+        },
+        {
+          "id": 10,
+          "title": "اضافه کردن",
+          "state": "last"
+        }
+      ],
+      "head5": {
+        "title": "سایر لوازم خودرو",
+        "title2": "مشاهده همه",
+        "title3": "بر اساس سلیقه شما"
+      },
+      "Tabel5": [
+        {
+          "id": 1,
+          "title": "قیف خودرو مدل ZA-GHR1",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/0a32f1f67397e84ed4059b85a1d3d9bc806af5d4_1635523255.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+          "state": false,
+          "discountPrice": "۱۲۹,۱۰۰"
+        },
+        {
+          "id": 2,
+          "title": "چراغ آنتی هدلایت خودرو مدل مزاحم گیر ",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/2a44b0e6e87be5292a254baa2f8f630cc5473cf1_1691491532.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+          "state": false,
+          "discountPrice": "۴۴۹,۰۰۰"
+        },
+        {
+          "id": 3,
+          "title": "نوار صداگیر درب خودرو مدل 5 لایه",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/faa8695a329baa5933f8da0bd7dc5338708cd806_1713106245.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+          "state": false,
+          "discountPrice": "۲۹۰,۰۰۰"
+        },
+        {
+          "id": 4,
+          "title": "استرس بار خودرو نورا مدل GT ",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/69365d999cdfa187270a304276fef52bc1373ad3_1708084869.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+          "state": false,
+          "discountPrice": "۳,۳۵۰,۰۰۰"
+        },
+        {
+          "id": 5,
+          "title": "چراغ الوایر خودرو مدل RGB مولتی کالر هفت رنگ کد FN5 طول 2 متر",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/08ccff69753d59beac0ba247e04777b85e7b7871_1594706231.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+          "state": false,
+          "discountPrice": "۴۵۰,۰۰۰"
+        },
+        {
+          "id": 6,
+          "title": " تسمه بکسل مدل HVG",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/fd972623ca991fa633d7b19a41bb8fd11a0365ad_1725355924.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+          "state": false,
+          "discountPrice": "۳۰۰,۰۰۰"
+        },
+        {
+          "id": 7,
+          "title": "لامپ ال ای دی خودرو اف اچ دی مدل 26-RD بسته دو عددی",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/31df710de0801dbfa5e846c20ed7e6b3ff182709_1713861475.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+          "state": false,
+          "discountPrice": "۱۷۰,۰۰۰"
+        },
+        {
+          "id": 8,
+          "title": "کیت نور پردازی خودرو اف اچ دی مدل  T10 بسته 3 عددی",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/c0476e739ef988d6dae69a1e23914c3ad64de2e8_1780748213.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+          "state": false,
+          "discountPrice": "۳۹۰,۰۰۰"
+        },
+        {
+          "id": 9,
+          "title": "لامپ سیار خودرو مدل مهتابی مگنتی LED",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/9fb5d68cabb0b2aa9521a368ccdcf8c433b702a8_1712926736.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+          "state": false,
+          "discountPrice": "۱۳۴,۸۵۰"
+        },
+        {
+          "id": 10,
+          "title": "اضافه کردن",
+          "state": "last"
+        }
+      ],
+      "head6": {
+        "title": "کرم آبرسان و مرطوب کننده",
+        "title2": "مشاهده همه",
+        "title3": "بر اساس سلیقه شما"
+      },
+      "Tabel6": [
+        {
+          "id": 1,
+          "title": "کرم مرطوب کننده مکس بیوتی مدل زیتون حجم 400 میلی لیتر",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/d3ed56715d6a96aae842c35edf1ed877d0c59c39_1670490320.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+          "state": false,
+          "discountPrice": "۹۲۶,۱۸۰"
+        },
+        {
+          "id": 2,
+          "title": "کرم مرطوب‌کننده درمالیفت مدل Hydralift AC Cream مناسب پوست‌های چرب حجم 50 میلی‌لیتر",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/ac9ad68868977589f9d9c68cb49219e192d40d29_1754835944.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+          "discount": "۳۷",
+          "price": "۴۱۸,۰۰۰",
+          "state": true,
+          "discountPrice": "۲۶۳,۳۴۰"
+        },
+        {
+          "id": 3,
+          "title": "کرم آبرسان راکوتن مدل Prebiotic حجم 50 میلی‌لیتر",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/d62215d2ed8d71a057f3242923b51465205326af_1754244443.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+          "discount": "۴۰",
+          "price": "۵۹۷,۰۰۰",
+          "state": true,
+          "discountPrice": "۳۵۸,۲۰۰"
+        },
+        {
+          "id": 4,
+          "title": "کرم مرطوب کننده صورت و گردن کلامین مدل collagen bank مناسب انواع پوست حجم 125 میلی لیتر",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/e50c784329c3786a59c1e0a0914e43c2695b3aed_1760871822.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+          "discount": "۲",
+          "price": "۴۷۸,۰۰۰",
+          "state": true,
+          "discountPrice": "۴۶۸,۴۰۰"
+        },
+        {
+          "id": 5,
+          "title": "اسپری آبرسان صورت و بدن ویتالیر مدل Hydravit مناسب برای انواع پوست حجم 75 میلی لیتر",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/320e823016d594b49d6579b7b62771e3d2826539_1754486899.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+          "discount": "۲۱",
+          "price": "۳۲۴,۰۰۰",
+          "state": true,
+          "discountPrice": "۲۵۵,۰۰۰"
+        },
+        {
+          "id": 6,
+          "title": "ژل آبرسان پرایم مدل Ultra-Hydrating  حجم 50 میلی‌لیتر",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/8a6e4dc5e6591d57321575f99c869e40c01c62eb_1754250122.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+          "discount": "۳۵",
+          "price": "۱,۱۵۰,۰۰۰",
+          "state": true,
+          "discountPrice": "۷۴۷,۵۰۰"
+        },
+        {
+          "id": 7,
+          "title": "کرم مرطوب‌کننده کامان مدل Oil Plus حجم 250 میلی‌لیتر",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/d367d86811b89767511bb698c9151587117f4a17_1754243314.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+          "discount": "۳۵",
+          "price": "۲۹۷,۰۰۰",
+          "state": true,
+          "discountPrice": "۱۹۳,۰۵۰"
+        },
+        {
+          "id": 8,
+          "title": "کرم آبرسان وچه مدل Bamboo مناسب پوست‌های چرب و مستعد آکنه حجم 60 میلی‌لیتر",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/4a62215ec6562731d7727d7399f0da76795a0424_1754243847.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+          "state": false,
+          "discountPrice": "۴۶۷,۰۰۰"
+        },
+        {
+          "id": 9,
+          "title": "کرم نرم کننده مکس بیوتی مدل اوره و اوسرین حجم 400 میلی لیتر",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/6b4cde34f5d079ce21ddb32753f8ca60a5d171b3_1755787673.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+          "discount": "۸۰",
+          "price": "۸۱۸,۹۲۰",
+          "state": true,
+          "discountPrice": "۱۶۳,۷۸۰"
+        },
+        {
+          "id": 10,
+          "title": "اضافه کردن",
+          "state": "last"
+        }
+      ],
+      "head7": {
+        "title": "واکس، پولیش و تمیزکننده خودرو",
+        "title2": "مشاهده همه",
+        "title3": "بر اساس سلیقه شما"
+      },
+      "Tabel7": [
+        {
+          "id": 1,
+          "title": "شامپو بدنه خودرو نانو براق کننده و تمیز کننده نکسوس مدل N1 حجم 1 لیتر ",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/5c0c00771d24e86f1a34bcd2b82de890f4a901a4_1721741386.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+          "discount": "۹",
+          "price": "۲۲۰,۰۰۰",
+          "state": true,
+          "discountPrice": "۱۹۹,۸۵۰"
+        },
+        {
+          "id": 2,
+          "title": "لکه بر و خشگیر بدنه خودرو روین مدل RV-1 حجم ۱۰۰ میلی لیتر",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/550dcadec8466c32bd90d53add4a648c8a09d84a_1770924236.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+          "state": false,
+          "discountPrice": "۴۹۰,۰۰۰"
+        },
+        {
+          "id": 3,
+          "title": "بدنه شوی اتومبیل یاتاش مدل تاچلس حجم 500 میلی لیتر",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/d81567e6646f18c83e0ffa38d2c8c1654bc3e0a0_1715950849.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+          "discount": "۱۲",
+          "price": "۲۲۰,۰۰۰",
+          "state": true,
+          "discountPrice": "۱۹۲,۹۰۰"
+        },
+        {
+          "id": 4,
+          "title": "اسپری واکس لاستیک خودرو میشلن مدل ML حجم 1000 میلی لیتر",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/e88c437f1854c2d3ba93095fe3d2e48f609b26bf_1765898131.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+          "state": true,
+          "discountPrice": "۳۹۰,۰۰۰"
+        },
+        {
+          "id": 5,
+          "title": "پولیش واکس خودرو جلاسنج مدل NEW",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/4764445.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+          "state": true,
+          "discountPrice": "۲۷۱,۸۴۰"
+        },
+        {
+          "id": 6,
+          "title": "اسپری رنگ خودرو اسمارت پن کد 1150501 حجم 200 میلی لیتر",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/22c14ff60f2db1c1d91471f4f7550bf84fda3e2b_1757691320.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+          "state": true,
+          "discountPrice": "۱,۰۴۰,۰۰۰"
+        },
+        {
+          "id": 7,
+          "title": "واکس داشبورد خودرو رستاک مدل M16 حجم 150 میلی لیتر",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/9c5ac972e6d972da027a1509e4dbf0fdabb94d80_1699274401.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+          "state": false,
+          "discountPrice": "۱۴۶,۰۰۰"
+        },
+        {
+          "id": 8,
+          "title": "شامپو بدنه خودرو نانو براق کننده و تمیز کننده تکرو مدل SH1500 حجم 1.5 لیتر",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/21ce13616edf1f8a9751b08df30eb2b064b4e6d3_1626110340.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+          "discount": "۱۵",
+          "price": "۲۷۰,۰۰۰",
+          "state": true,
+          "discountPrice": "۲۲۹,۶۴۰"
+        },
+        {
+          "id": 9,
+          "title": "اسپری پولیش داشبورد خودرو کاسپین مدل اورجینال حجم 300 میلی‌ لیتر",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/5ed31e9d56b8c1a8599103ec96bed79842fa5ad3_1706709972.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+          "state": false,
+          "discountPrice": "۲۵۰,۲۶۰"
+        },
+        {
+          "id": 10,
+          "title": "اضافه کردن",
+          "state": "last"
+        }
+      ],
+      "head8": {
+        "title": "کتاب رمان و ادبیات داستانی و نمایشی",
+        "title2": "مشاهده همه",
+        "title3": "بر اساس سلیقه شما"
+      },
+      "Tabel8": [
+        {
+          "id": 1,
+          "title": "کتاب شب های روشن اثر فیودور داستایفسکی نشر ماهی",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/15708edb3b23973f5d32b8c6ad4232b461f55e78_1658316575.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+          "discount": "۲۱",
+          "price": "۱۹۰,۰۰۰",
+          "state": true,
+          "discountPrice": "۱۵۰,۰۰۰"
+        },
+        {
+          "id": 2,
+          "title": "کتاب مرگ ایوان ایلیچ اثر لیو تالستوی نشر چشمه",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/612d0a05bb6741dd7cc872dd6a17116f60581a32_1720423792.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+          "state": false,
+          "discountPrice": "۹۰,۰۰۰"
+        },
+        {
+          "id": 3,
+          "title": "کتاب بانوی میزبان اثر فیودور داستایفسکی نشر ماهی ",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/9064153b99cb9462992af38d2c7038365fe8910f_1658644356.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+          "state": false,
+          "discountPrice": "۱۵۲,۰۰۰"
+        },
+        {
+          "id": 4,
+          "title": "کتاب سايه ميان ما اثر تريشا لونسلر ترجمه عابدین موسوی انتشارات آذربیان",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/1e9a4e54d2e0c0ef4d5a953357efe7a5379bd9c2_1752058869.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+          "discount": "۷۰",
+          "price": "۸۹۰,۰۰۰",
+          "state": true,
+          "discountPrice": "۲۶۶,۹۰۰"
+        },
+        {
+          "id": 5,
+          "title": "کتاب بامداد خمار اثر فتانه حاج سید جوادی",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/1293730.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+          "discount": "۶۵",
+          "price": "۱,۰۰۰,۰۰۰",
+          "state": true,
+          "discountPrice": "۳۵۰,۰۰۰"
+        },
+        {
+          "id": 6,
+          "title": "کتاب تنگنا (حکایت یک سرگشتگی روانی) اثر لیانید‌آندریف ترجمه رضا‌ بهرامی نشر چشمه",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/350aba890e186ec612df67028fe2d77e72412a47_1740485890.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+          "state": false,
+          "discountPrice": "۲۵۴,۶۰۰"
+        },
+        {
+          "id": 7,
+          "title": "کتاب جنایت و مکافات اثر فئودور داستایفسکی ترجمه غزل ارغشی انتشارات آذربیان",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/7e5b365b93622ebec2e4602dde20bdb0d9105051_1739797078.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+          "discount": "۷۲",
+          "price": "۱,۵۹۰,۰۰۰",
+          "state": true,
+          "discountPrice": "۴۴۹,۹۰۰"
+        },
+        {
+          "id": 8,
+          "title": "کتاب ناتوان، قدرتمند، بی پروا، بی باک و بیمناک اثر لورن رابرتس نشر آذرگون 5 جلدی",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/33fe7eeb1010764595eec696898e0cf37dcbc390_1762951586.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+          "discount": "۷۵",
+          "price": "۷,۹۴۰,۰۰۰",
+          "state": true,
+          "discountPrice": "۱,۹۹۰,۰۰۰"
+        },
+        {
+          "id": 9,
+          "title": "کتاب هردو درنهایت می میرند و اولین نفری که درنهایت می میرد اثر آدام سیلورا ترجمه رویا عبادی و هادی ثقفی انتشارات آذربیان 2 جلدی",
+          "url": "https://dkstatics-public.digikala.com/digikala-products/3d3a42326947a95993c7e05ffed9bdfd25fed649_1752903726.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+          "discount": "۷۱",
+          "price": "۱,۳۳۸,۰۰۰",
+          "state": true,
+          "discountPrice": "۳۸۲,۹۰۰"
+        },
+        {
+          "id": 10,
+          "title": "اضافه کردن",
+          "state": "last"
+        }
+      ]
+    },
+    "TabelSection": {
+      "Tabel1": [
+        {
+          "id": 1,
+          "state": "left",
+          "heading": {
+            "title": "کیف و کاور گوشی",
+            "caption": "بر اساس سلیقه شما"
+          },
+          "T": [
+            {
+              "id": 1,
+              "url": "https://dkstatics-public.digikala.com/digikala-products/2ea7bd0047d8e684d17de7c5d27832c69c18086b_1646509677.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+              "state": "left-bottom"
+            },
+            {
+              "id": 2,
+              "url": "https://dkstatics-public.digikala.com/digikala-products/d68d0b8c5c137c9beb3a9b7f75db1297ce2e613e_1727692322.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+              "state": "bottom"
+            },
+            {
+              "id": 3,
+              "url": "https://dkstatics-public.digikala.com/digikala-products/f872239dc1c5f75b21fd77ada5b7a62b8ce9dce2_1755000054.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+              "state": "left"
+            },
+            {
+              "id": 4,
+              "url": "https://dkstatics-public.digikala.com/digikala-products/bbf2caf9ee854d2527566907eccd4001d009d46c_1721551582.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+              "state": null
+            }
+          ],
+          "FooterHeading": {
+            "id": 1,
+            "title": "مشاهده"
+          }
+        },
+        {
+          "id": 2,
+          "state": "left",
+          "heading": {
+            "title": "ویتامین‌ها و مواد معدنی",
+            "caption": "بر اساس سلیقه شما"
+          },
+          "T": [
+            {
+              "id": 1,
+              "url": "https://dkstatics-public.digikala.com/digikala-products/c64720f4446aa94b873dab4ae35091bc3f0fcc22_1637680139.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+              "state": "left-bottom"
+            },
+            {
+              "id": 2,
+              "url": "https://dkstatics-public.digikala.com/digikala-products/5233d3f6cfeca2904e6f006bbcc18aeff43ca289_1669625068.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+              "state": "bottom"
+            },
+            {
+              "id": 3,
+              "url": "https://dkstatics-public.digikala.com/digikala-products/58fad2977c290c0914aeb1f1ece4c51183296e42_1714646605.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+              "state": "left"
+            },
+            {
+              "id": 4,
+              "url": "https://dkstatics-public.digikala.com/digikala-products/eaccf524b086ae725d0d307b139f4fffd6ed9dc0_1753526039.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+              "state": null
+            }
+          ],
+          "FooterHeading": {
+            "id": 1,
+            "title": "مشاهده"
+          }
+        },
+        {
+          "id": 3,
+          "state": "left",
+          "heading": {
+            "title": "هدفون، هدست و هندزفری",
+            "caption": "بر اساس سلیقه شما"
+          },
+          "T": [
+            {
+              "id": 1,
+              "url": "https://dkstatics-public.digikala.com/digikala-products/d6e3aea6327348c6fbc3ba1618fcede10b5e32f7_1772541335.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+              "state": "left-bottom"
+            },
+            {
+              "id": 2,
+              "url": "https://dkstatics-public.digikala.com/digikala-products/487620e2936e1dd07238849a058fe472da39c1a5_1745824997.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+              "state": "bottom"
+            },
+            {
+              "id": 3,
+              "url": "https://dkstatics-public.digikala.com/digikala-products/32af07490073ae17e5529365a8eb1ebf68e091b4_1745827632.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+              "state": "left"
+            },
+            {
+              "id": 4,
+              "url": "https://dkstatics-public.digikala.com/digikala-products/1cd4b0b184b487f55191ec9358bd6d5030b398a6_1781779192.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+              "state": null
+            }
+          ],
+          "FooterHeading": {
+            "id": 1,
+            "title": "مشاهده"
+          }
+        },
+        {
+          "id": 4,
+          "state": null,
+          "heading": {
+            "title": "گوشی موبایل",
+            "caption": "بر اساس سلیقه شما"
+          },
+          "T": [
+            {
+              "id": 1,
+              "url": "https://dkstatics-public.digikala.com/digikala-products/ec57ce03f2a92834058f502174b1a2aeffc9a580_1759666637.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+              "state": "left-bottom"
+            },
+            {
+              "id": 2,
+              "url": "https://dkstatics-public.digikala.com/digikala-products/d9688d826d83753e1506b11e06360bbc4a250af6_1766841450.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+              "state": "bottom"
+            },
+            {
+              "id": 3,
+              "url": "https://dkstatics-public.digikala.com/digikala-products/6144c3fdde10110e4312420db31e07f42e2cfc3a_1738146333.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+              "state": "left"
+            },
+            {
+              "id": 4,
+              "url": "https://dkstatics-public.digikala.com/digikala-products/0a8fff942ea8ee0359edadad85daae399b0e357c_1763462145.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+              "state": null
+            }
+          ],
+          "FooterHeading": {
+            "id": 1,
+            "title": "مشاهده"
+          }
+        }
+      ],
+      "Tabel2": [
+        {
+          "id": 1,
+          "state": "left",
+          "heading": {
+            "id": 1,
+            "title": "سایر لوازم خودرو",
+            "caption": "بر اساس سلیقه شما"
+          },
+          "T": [
+            {
+              "id": 1,
+              "url": "https://dkstatics-public.digikala.com/digikala-products/9cc0f5126d637c167bb3153303bcecf17e42eea0_1715676141.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp"
+            },
+            {
+              "id": 2,
+              "url": "https://dkstatics-public.digikala.com/digikala-products/5385552facfbee2abf0ad57d0ed6e230ee90f765_1681306473.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp"
+            },
+            {
+              "id": 3,
+              "url": "https://dkstatics-public.digikala.com/digikala-products/5385552facfbee2abf0ad57d0ed6e230ee90f765_1681306473.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp"
+            },
+            {
+              "id": 4,
+              "url": "https://dkstatics-public.digikala.com/digikala-products/5385552facfbee2abf0ad57d0ed6e230ee90f765_1681306473.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp"
+            }
+          ],
+          "FooterHeading": {
+            "id": 1,
+            "title": "مشاهده"
+          }
+        },
+        {
+          "id": 2,
+          "state": "left",
+          "heading": {
+            "id": 2,
+            "title": "کرم آبرسان و مرطوب کننده",
+            "caption": "بر اساس سلیقه شما"
+          },
+          "T": [
+            {
+              "id": 1,
+              "url": "https://dkstatics-public.digikala.com/digikala-products/79b7ee2ce5df5b5ed5aea74866caee3a997cdbcc_1775541124.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp"
+            },
+            {
+              "id": 2,
+              "url": "https://dkstatics-public.digikala.com/digikala-products/d62215d2ed8d71a057f3242923b51465205326af_1754244443.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp"
+            },
+            {
+              "id": 3,
+              "url": "https://dkstatics-public.digikala.com/digikala-products/ac9ad68868977589f9d9c68cb49219e192d40d29_1754835944.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp"
+            },
+            {
+              "id": 4,
+              "url": "https://dkstatics-public.digikala.com/digikala-products/e50c784329c3786a59c1e0a0914e43c2695b3aed_1760871822.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp"
+            }
+          ],
+          "FooterHeading": {
+            "id": 1,
+            "title": "مشاهده"
+          }
+        },
+        {
+          "id": 3,
+          "state": "left",
+          "heading": {
+            "id": 3,
+            "title": "واکس، پولیش و تمیزکننده خودرو",
+            "caption": "بر اساس سلیقه شما"
+          },
+          "T": [
+            {
+              "id": 1,
+              "url": "https://dkstatics-public.digikala.com/digikala-products/5c0c00771d24e86f1a34bcd2b82de890f4a901a4_1721741386.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp"
+            },
+            {
+              "id": 2,
+              "url": "https://dkstatics-public.digikala.com/digikala-products/550dcadec8466c32bd90d53add4a648c8a09d84a_1770924236.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp"
+            },
+            {
+              "id": 3,
+              "url": "https://dkstatics-public.digikala.com/digikala-products/d81567e6646f18c83e0ffa38d2c8c1654bc3e0a0_1715950849.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp"
+            },
+            {
+              "id": 4,
+              "url": "https://dkstatics-public.digikala.com/digikala-products/e88c437f1854c2d3ba93095fe3d2e48f609b26bf_1765898131.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp"
+            }
+          ],
+          "FooterHeading": {
+            "id": 1,
+            "title": "مشاهده"
+          }
+        },
+        {
+          "id": 4,
+          "state": null,
+          "heading": {
+            "id": 4,
+            "title": "کتاب رمان و ادبیات داستانی و نمایشی",
+            "caption": "بر اساس سلیقه شما"
+          },
+          "T": [
+            {
+              "id": 1,
+              "url": "https://dkstatics-public.digikala.com/digikala-products/15708edb3b23973f5d32b8c6ad4232b461f55e78_1658316575.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp"
+            },
+            {
+              "id": 2,
+              "url": "https://dkstatics-public.digikala.com/digikala-products/15708edb3b23973f5d32b8c6ad4232b461f55e78_1658316575.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp"
+            },
+            {
+              "id": 3,
+              "url": "https://dkstatics-public.digikala.com/digikala-products/9064153b99cb9462992af38d2c7038365fe8910f_1658644356.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp"
+            },
+            {
+              "id": 4,
+              "url": "https://dkstatics-public.digikala.com/digikala-products/9064153b99cb9462992af38d2c7038365fe8910f_1658644356.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp"
+            }
+          ],
+          "FooterHeading": {
+            "id": 1,
+            "title": "مشاهده"
+          }
+        }
+      ]
+    },
+    "ThreeSliderRows": {
+      "heading": {
+        "id": 1,
+        "title": "",
+        "url": ""
+      },
+      "Products": [
+        [
+          {
+            "id": 1,
+            "key": "۱",
+            "title": " پرده مدل هازان پانچی کد 1386 سایز 140x200 سانتی متر",
+            "url": "https://dkstatics-public.digikala.com/digikala-products/6bf109c5d1920cfaa135578859d025ff4d898194_1691472999.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+            "stateLine": false
+          },
+          {
+            "id": 2,
+            "key": "۲",
+            "title": "پرده مدل مخمل پانچی کد 1108-2 سایز 200x140 سانتی متر",
+            "url": "https://dkstatics-public.digikala.com/digikala-products/1c3ce56b19f584ca13a94cd0a26e60b178afe78d_1684048948.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+            "stateLine": false
+          },
+          {
+            "id": 3,
+            "key": "۳",
+            "title": "تونر پاک کننده صورت لافارر مدل مولتی اکتیو مناسب پوست های چرب و مختلط حجم 170 میلی لیتر",
+            "url": "https://dkstatics-public.digikala.com/digikala-products/cd1cb50e0e822d8d7243f331ff8afd032728f4bc_1694244808.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+            "stateLine": true
+          }
+        ],
+        [
+          {
+            "id": 4,
+            "key": "۴",
+            "title": "محافظ صفحه نمایش مای سیحان مدل آنتی استاتیک مناسب برای گوشی موبایل اپل iPhone XR",
+            "url": "https://dkstatics-public.digikala.com/digikala-products/a46afaaecfce933f3b62966ed1806213ee962f51_1683643462.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+            "stateLine": false
+          },
+          {
+            "id": 5,
+            "key": "۵",
+            "title": "محافظ صفحه نمایش اسپایدر مدل آنتی استاتیک مناسب برای گوشی موبایل شیائومی POCO M4 5G",
+            "url": "https://dkstatics-public.digikala.com/digikala-products/228a0f965479af4b9fb366bab3a416280bc3d2b3_1675857349.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+            "stateLine": false
+          },
+          {
+            "id": 6,
+            "key": "۶",
+            "title": "فلوئید ضدآفتاب بی‌رنگ پرایم SPF50 مدل C-Prime Fusion Water مناسب انواع پوست، حجم 40 میلی‌لیتر",
+            "url": "https://dkstatics-public.digikala.com/digikala-products/cf3f006f0de68c6538088d83192f460ef26db979_1710183258.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+            "stateLine": true
+          }
+        ],
+        [
+          {
+            "id": 7,
+            "key": "۷",
+            "title": "هدفون بلوتوثی انکر مدل SoundCore R50i A3949 بدون قابلیت نویز کنسلینگ، درگاه شارژ USB Type-C، دارای فناوری AI-Enhanced Calls برای کاهش نویز و بهبود مکالمات، مقاوم در برابر رطوبت و عرق",
+            "url": "https://dkstatics-public.digikala.com/digikala-products/487620e2936e1dd07238849a058fe472da39c1a5_1745824997.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+            "stateLine": false
+          },
+          {
+            "id": 8,
+            "key": "۸",
+            "title": "پوشک چسبی بچه مولفیکس مدل اکو پلاس سایز چهار 62 عددی",
+            "url": "https://dkstatics-public.digikala.com/digikala-products/032799e46908331fd0173b30b4e380376d1d99a9_1720851224.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+            "stateLine": false
+          },
+          {
+            "id": 9,
+            "key": "۹",
+            "title": "کره حیوانی پاستوریزه شکلی 50 گرم ",
+            "url": "https://dkstatics-public.digikala.com/digikala-products/111946792.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+            "stateLine": true
+          }
+        ],
+        [
+          {
+            "id": 10,
+            "key": "۱۰",
+            "title": "پنیر فتا دوشه هراز - 400 گرم",
+            "url": "https://dkstatics-public.digikala.com/digikala-products/121654059.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+            "stateLine": false
+          },
+          {
+            "id": 11,
+            "key": "۱۱",
+            "title": "قرص ویتامین D3-1000 واحدی  بسته 60 عددی",
+            "url": "https://dkstatics-public.digikala.com/digikala-products/1bc2c5e4376c5b2b39fa7ec8a680c17e60dbc9f4_1754248399.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+            "stateLine": false
+          },
+          {
+            "id": 12,
+            "key": "۱۲",
+            "title": "کپسول مگنیفورت هولیستیکا بسته 32 عددی",
+            "url": "https://dkstatics-public.digikala.com/digikala-products/69fa9151e2a2d7597f465ff96b02df24a8c287b8_1610542271.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+            "stateLine": true
+          }
+        ],
+        [
+          {
+            "id": 13,
+            "key": "۱۳",
+            "title": "پودر ماشین لباسشویی سپید مدل 5 آنزیم مقدار 500 گرم",
+            "url": "https://dkstatics-public.digikala.com/digikala-products/c2db653cfabe404e1d0225ac31ffb68853ff7d31_1602596054.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+            "stateLine": false
+          },
+          {
+            "id": 14,
+            "key": "۱۴",
+            "title": "استیک ضد تعریق زنانه آمبرلا مدل Energy + Fresh حجم 75 میلی لیتر",
+            "url": "https://dkstatics-public.digikala.com/digikala-products/b94ea8bc33d7cb3ea9fe81f6b40b59ed09dde3b5_1630906332.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+            "stateLine": false
+          },
+          {
+            "id": 15,
+            "key": "۱۵",
+            "title": "کارت هدیه الکترونیکی دیجی کالا طرح طلای الکترونیک",
+            "url": "https://dkstatics-public.digikala.com/digikala-products/dba25b58eb5b78d2cbf41d5befd49e5f5f64b5e4_1730022466.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+            "stateLine": true
+          }
+        ],
+        [
+          {
+            "id": 16,
+            "key": "۱۶",
+            "title": "قرص منیزیم بیس گلایسینات یوروویتال بسته 60 عددی",
+            "url": "https://dkstatics-public.digikala.com/digikala-products/2ad22c2fc5c8a9ac8722ba3c56994583aeb582f7_1733140652.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+            "stateLine": false
+          },
+          {
+            "id": 17,
+            "key": "۱۷",
+            "title": "مایع ظرفشویی گلرنگ مدل Lemon مقدار 1000 گرم",
+            "url": "https://dkstatics-public.digikala.com/digikala-products/4f5a2f7f80c54c7a29ed87a70501ea3d38140ca7_1761994878.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+            "stateLine": false
+          },
+          {
+            "id": 18,
+            "key": "۱۸",
+            "title": "پودر لباسشویی دستی برف مدل Super وزن 500 گرم",
+            "url": "https://dkstatics-public.digikala.com/digikala-products/c64720f4446aa94b873dab4ae35091bc3f0fcc22_1637680139.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+            "stateLine": true
+          }
+        ]
+      ],
+      "Products2": [
+        [
+          {
+            "id": 1,
+            "key": "۱",
+            "title": " ساعت هوشمند 46 میلی متری شیائومی مدل Redmi Watch 6 با بند پلاستیکی",
+            "url": "https://dkstatics-public.digikala.com/digikala-products/4f56f812def82a124b28f4735be84ae967840cb9_1779647615.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+            "stateLine": false
+          },
+          {
+            "id": 2,
+            "key": "۲",
+            "title": "تابلو شاسی عرش مدل فانتزی هنری طبیعت کد As5483",
+            "url": "https://dkstatics-public.digikala.com/digikala-products/b38699905d76d6f743a4570bb48c91985b9ef833_1757016800.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+            "stateLine": false
+          },
+          {
+            "id": 3,
+            "key": "۳",
+            "title": "پوستر دیواری طرح گاد فادر کدBH789",
+            "url": "https://dkstatics-public.digikala.com/digikala-products/f2967cb9fa57ce0293437c6bbca8419393ab980a_1619379687.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+            "stateLine": true
+          }
+        ],
+        [
+          {
+            "id": 4,
+            "key": "۴",
+            "title": "محافظ صفحه نمایش مای سیحان مدل آنتی استاتیک مناسب برای گوشی موبایل اپل iPhone XR",
+            "url": "https://dkstatics-public.digikala.com/digikala-products/a46afaaecfce933f3b62966ed1806213ee962f51_1683643462.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+            "stateLine": false
+          },
+          {
+            "id": 5,
+            "key": "۵",
+            "title": "محافظ صفحه نمایش اسپایدر مدل آنتی استاتیک مناسب برای گوشی موبایل شیائومی POCO M4 5G",
+            "url": "https://dkstatics-public.digikala.com/digikala-products/228a0f965479af4b9fb366bab3a416280bc3d2b3_1675857349.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+            "stateLine": false
+          },
+          {
+            "id": 6,
+            "key": "۶",
+            "title": "فلوئید ضدآفتاب بی‌رنگ پرایم SPF50 مدل C-Prime Fusion Water مناسب انواع پوست، حجم 40 میلی‌لیتر",
+            "url": "https://dkstatics-public.digikala.com/digikala-products/cf3f006f0de68c6538088d83192f460ef26db979_1710183258.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80/format,webp",
+            "stateLine": true
+          }
+        ],
+        [
+          {
+            "id": 7,
+            "key": "۷",
+            "title": "هدفون بلوتوثی انکر مدل SoundCore R50i A3949 بدون قابلیت نویز کنسلینگ، درگاه شارژ USB Type-C، دارای فناوری AI-Enhanced Calls برای کاهش نویز و بهبود مکالمات، مقاوم در برابر رطوبت و عرق",
+            "url": "https://dkstatics-public.digikala.com/digikala-products/487620e2936e1dd07238849a058fe472da39c1a5_1745824997.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+            "stateLine": false
+          },
+          {
+            "id": 8,
+            "key": "۸",
+            "title": "پوشک چسبی بچه مولفیکس مدل اکو پلاس سایز چهار 62 عددی",
+            "url": "https://dkstatics-public.digikala.com/digikala-products/032799e46908331fd0173b30b4e380376d1d99a9_1720851224.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+            "stateLine": false
+          },
+          {
+            "id": 9,
+            "key": "۹",
+            "title": "کره حیوانی پاستوریزه شکلی 50 گرم ",
+            "url": "https://dkstatics-public.digikala.com/digikala-products/111946792.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+            "stateLine": true
+          }
+        ],
+        [
+          {
+            "id": 10,
+            "key": "۱۰",
+            "title": "پنیر فتا دوشه هراز - 400 گرم",
+            "url": "https://dkstatics-public.digikala.com/digikala-products/121654059.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+            "stateLine": false
+          },
+          {
+            "id": 11,
+            "key": "۱۱",
+            "title": "قرص ویتامین D3-1000 واحدی  بسته 60 عددی",
+            "url": "https://dkstatics-public.digikala.com/digikala-products/1bc2c5e4376c5b2b39fa7ec8a680c17e60dbc9f4_1754248399.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+            "stateLine": false
+          },
+          {
+            "id": 12,
+            "key": "۱۲",
+            "title": "کپسول مگنیفورت هولیستیکا بسته 32 عددی",
+            "url": "https://dkstatics-public.digikala.com/digikala-products/69fa9151e2a2d7597f465ff96b02df24a8c287b8_1610542271.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+            "stateLine": true
+          }
+        ],
+        [
+          {
+            "id": 13,
+            "key": "۱۳",
+            "title": "پودر ماشین لباسشویی سپید مدل 5 آنزیم مقدار 500 گرم",
+            "url": "https://dkstatics-public.digikala.com/digikala-products/c2db653cfabe404e1d0225ac31ffb68853ff7d31_1602596054.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+            "stateLine": false
+          },
+          {
+            "id": 14,
+            "key": "۱۴",
+            "title": "استیک ضد تعریق زنانه آمبرلا مدل Energy + Fresh حجم 75 میلی لیتر",
+            "url": "https://dkstatics-public.digikala.com/digikala-products/b94ea8bc33d7cb3ea9fe81f6b40b59ed09dde3b5_1630906332.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+            "stateLine": false
+          },
+          {
+            "id": 15,
+            "key": "۱۵",
+            "title": "کارت هدیه الکترونیکی دیجی کالا طرح طلای الکترونیک",
+            "url": "https://dkstatics-public.digikala.com/digikala-products/dba25b58eb5b78d2cbf41d5befd49e5f5f64b5e4_1730022466.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+            "stateLine": true
+          }
+        ],
+        [
+          {
+            "id": 16,
+            "key": "۱۶",
+            "title": "قرص منیزیم بیس گلایسینات یوروویتال بسته 60 عددی",
+            "url": "https://dkstatics-public.digikala.com/digikala-products/2ad22c2fc5c8a9ac8722ba3c56994583aeb582f7_1733140652.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+            "stateLine": false
+          },
+          {
+            "id": 17,
+            "key": "۱۷",
+            "title": "مایع ظرفشویی گلرنگ مدل Lemon مقدار 1000 گرم",
+            "url": "https://dkstatics-public.digikala.com/digikala-products/4f5a2f7f80c54c7a29ed87a70501ea3d38140ca7_1761994878.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+            "stateLine": false
+          },
+          {
+            "id": 18,
+            "key": "۱۸",
+            "title": "پودر لباسشویی دستی برف مدل Super وزن 500 گرم",
+            "url": "https://dkstatics-public.digikala.com/digikala-products/c64720f4446aa94b873dab4ae35091bc3f0fcc22_1637680139.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+            "stateLine": true
+          }
+        ]
+      ]
+    },
+    "HugeTableSection": {
+      "heading": {
+        "id": 1,
+        "title": "منتخب محصولات تخفیف و حراج"
+      },
+      "Table": [
+        [
+          {
+            "id": 1,
+            "url": "https://dkstatics-public.digikala.com/digikala-products/f051f9c5e6c8cf50d6b29f3993e948731bbdb1d4_1731823197.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+            "discount": "۸۷",
+            "price": "۹۲۴,۰۰۰",
+            "discountPrice": "۱۲۰,۰۰۰",
+            "stateTimer": true,
+            "state": "left-bottom"
+          },
+          {
+            "id": 2,
+            "url": "https://dkstatics-public.digikala.com/digikala-products/ac74d63ae0fc09505b2d657ac5029319206fae67_1731823404.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+            "discount": "۸۵",
+            "price": "۱,۲۰۲,۸۵۰",
+            "discountPrice": "۱۸۰,۰۰۰",
+            "stateTimer": false,
+            "state": "left-bottom"
+          },
+          {
+            "id": 3,
+            "url": "https://dkstatics-public.digikala.com/digikala-products/34a28cdec9e82eed86547d2695067d13615289d8_1624175632.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+            "discount": "۹۰",
+            "price": "۱,۰۵۶,۰۰۰",
+            "discountPrice": "۱۰۴,۰۰۰",
+            "stateTimer": false,
+            "state": "left-bottom"
+          },
+          {
+            "id": 4,
+            "url": "https://dkstatics-public.digikala.com/digikala-products/34a28cdec9e82eed86547d2695067d13615289d8_1624175632.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+            "discount": "۸۵",
+            "price": "۶۲,۷۰۰",
+            "discountPrice": "۴۱۸,۰۰۰",
+            "stateTimer": false,
+            "state": "left-bottom"
+          },
+          {
+            "id": 5,
+            "url": "https://dkstatics-public.digikala.com/digikala-products/c37562f34a1a6984ba950d590ef4ece5333724c8_1705340275.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+            "discount": "۸۵",
+            "price": "۴۱۸,۰۰۰",
+            "discountPrice": "۶۲,۷۰۰",
+            "stateTimer": false,
+            "state": "left-bottom"
+          },
+          {
+            "id": 6,
+            "url": "https://dkstatics-public.digikala.com/digikala-products/1bb1a43cf9c30ad04558549da1c829130530064e_1753632099.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+            "discount": "۲۲",
+            "price": "۱,۹۴۹,۰۰۰",
+            "discountPrice": "۲,۴۹۹,۰۰۰",
+            "stateTimer": false,
+            "state": "bottom"
+          }
+        ],
+        [
+          {
+            "id": 1,
+            "url": "https://dkstatics-public.digikala.com/digikala-products/3be3780b97aaa68d08e3c2c48aa1dd0e9ef2f650_1753631544.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+            "discount": "۱۲",
+            "price": "۲,۱۹۹,۹۰۰",
+            "discountPrice": "۲,۴۹۰,۰۰۰",
+            "stateTimer": false,
+            "state": "left-bottom"
+          },
+          {
+            "id": 2,
+            "url": "https://dkstatics-public.digikala.com/digikala-products/c277fdc476edc2075ec14f3db8ce236bd2586560_1737869760.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+            "discount": "۱۱",
+            "price": "۴۳,۹۵۷,۱۰۰",
+            "discountPrice": "۴۹,۳۹۰,۰۰۰",
+            "stateTimer": true,
+            "state": "left-bottom"
+          },
+          {
+            "id": 3,
+            "url": "https://dkstatics-public.digikala.com/digikala-products/986ae37bf5cf887afad3e69aae147bedc51860fc_1779461018.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+            "discount": "۸",
+            "price": "۲,۹۴۹,۰۰۰",
+            "discountPrice": "۳,۲۱۵,۰۰۰",
+            "stateTimer": false,
+            "state": "left-bottom"
+          },
+          {
+            "id": 4,
+            "url": "https://dkstatics-public.digikala.com/digikala-products/986ae37bf5cf887afad3e69aae147bedc51860fc_1779461018.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+            "discount": "۹۰",
+            "price": "۳,۲۹۹,۹۹۰",
+            "discountPrice": "۳۴,۰۰۰,۰۰۰",
+            "stateTimer": false,
+            "state": "left-bottom"
+          },
+          {
+            "id": 5,
+            "url": "https://dkstatics-public.digikala.com/digikala-products/496eee45c9f9a67a67fd4ecae8d7651bed8abce4_1782133825.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+            "discount": "۹۰",
+            "price": "۱۷,۰۰۰,۰۰۰",
+            "discountPrice": "۱,۶۹۹,۹۹۰",
+            "stateTimer": false,
+            "state": "left-bottom"
+          },
+          {
+            "id": 6,
+            "url": "https://dkstatics-public.digikala.com/digikala-products/1230a8bb8f5d482dc12228feb0b07dcc689414d0_1779709312.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+            "discount": "۹۰",
+            "price": "۱۸,۰۰۰,۰۰۰",
+            "discountPrice": "۱,۷۹۹,۹۹۰",
+            "stateTimer": false,
+            "state": "bottom"
+          }
+        ],
+        [
+          {
+            "id": 1,
+            "url": "https://dkstatics-public.digikala.com/digikala-products/b9d3f42bb342309b24c2f41a83348935a2ccdab1_1775563184.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+            "discount": "۹۰",
+            "price": "۱۸,۸۰۰,۰۰۰",
+            "discountPrice": "۱,۸۸۰,۰۰۰",
+            "stateTimer": false,
+            "state": "left"
+          },
+          {
+            "id": 2,
+            "url": "https://dkstatics-public.digikala.com/digikala-products/6504cc54995f30f0dc1eb5f44ec187cd57c1e322_1781093349.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+            "discount": "۹۰",
+            "price": "۱۷,۰۰۰,۰۰۰",
+            "discountPrice": "۱,۶۹۹,۹۹۰",
+            "stateTimer": false,
+            "state": "left"
+          },
+          {
+            "id": 3,
+            "url": "https://dkstatics-public.digikala.com/digikala-products/8577e953e8e6a1792bd89ca3d601df5fde757d36_1781634470.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+            "discount": "۸۹",
+            "price": "۴,۵۰۰,۰۰۰",
+            "discountPrice": "۴۹۴,۹۹۰",
+            "stateTimer": false,
+            "state": "left"
+          },
+          {
+            "id": 4,
+            "url": "https://dkstatics-public.digikala.com/digikala-products/71768a8739dafe540a0e3d037fbe0b2d936b760e_1781636064.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+            "discount": "۸۹",
+            "price": "۴,۵۰۰,۰۰۰",
+            "discountPrice": "۴۹۴,۹۹۰",
+            "stateTimer": false,
+            "state": "left"
+          },
+          {
+            "id": 5,
+            "url": "https://dkstatics-public.digikala.com/digikala-products/50515d239155263fed1572a17c2decf26429e6a2_1776166503.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+            "discount": "۸۵",
+            "price": "۵۰۰,۰۰۰",
+            "discountPrice": "۷۵,۰۰۰",
+            "stateTimer": false,
+            "state": "left"
+          },
+          {
+            "id": 6,
+            "url": "https://dkstatics-public.digikala.com/digikala-products/6d7efb5f4ea87a7d8484f268643d063971532efa_1776163291.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+            "discount": "۸۵",
+            "price": "۱,۳۰۰,۰۰۰",
+            "discountPrice": "۱۹۵,۰۰۰",
+            "stateTimer": false,
+            "state": null
+          }
+        ]
+      ]
+    },
+    "Article": {
+      "heading": {
+        "id": 1,
+        "title": "خواندنی‌ها"
+      },
+      "ArticleCard": [
+        {
+          "id": 1,
+          "title": "بهترین جاهای دیدنی رشت کجاست؟ ۴۰ مکان دیدنی برای رشت‌گردی",
+          "url": "https://www.digikala.com/mag/wp-content/uploads/2026/07/Cover_resized.webp?x-oss-process=image/format,webp"
+        },
+        {
+          "id": 2,
+          "title": "آقای گل جام جهانی ۲۰۲۶ کیست؟ دوئل مسی و امباپه در جدول گلزنان",
+          "url": "https://www.digikala.com/mag/wp-content/uploads/2026/07/world-cup-2026-top-scorer.jpg?x-oss-process=image/format,webp"
+        },
+        {
+          "id": 3,
+          "title": "۲۰ سریال‌ برتر نماوا؛ از «قورباغه» تا «خاتون»",
+          "url": "https://www.digikala.com/mag/wp-content/uploads/2026/06/Best-Namava-Series.jpg?x-oss-process=image/format,webp"
+        },
+        {
+          "id": 4,
+          "title": "بهترین جاهای دیدنی رامسر؛ ۱۲ مکان دیدنی",
+          "url": "https://www.digikala.com/mag/wp-content/uploads/2026/07/Cover_resized-1.webp?x-oss-process=image/format,webp"
+        }
+      ]
+    },
+    "Footer": {
+      "Part1": {
+        "id": 1,
+        "title": "تلفن پشتیبانی ۶۱۹۳۰۰۰۰ - ۰۲۱",
+        "title2": "۰۲۱-۹۱۰۰۰۱۰۰",
+        "title3": "۷ روز هفته، ۲۴ ساعته پاسخگوی شما هستیم",
+        "BtnTitle": "بازگشت به بالا "
+      },
+      "Part1Mo": {
+        "FooterCard": [
+          {
+            "id": 1,
+            "title": "تماس با پشتیبانی",
+            "caption": "۷ روز هفته، ۲۴ ساعت",
+            "url": "../../../../../public/Images/Footer_Icon/headphones.png",
+            "BtnText": "تماس"
+          },
+          {
+            "id": 2,
+            "title": "اپلیکیشن دیجی‌کالا",
+            "caption": "تجربه خرید بهتر",
+            "url": "https://www.digikala.com/statics/img/png/Logo.webp",
+            "BtnText": "دانلود"
+          }
+        ],
+        "Acardeon": [
+          {
+            "id": 1,
+            "state": false,
+            "title": " با دیجی‌کالا",
+            "subAcardeon": [
+              {
+                "id": 1,
+                "title": "اتاق خبر دیجی‌کالا"
+              },
+              {
+                "id": 2,
+                "title": "فروش در دیجی‌کالا"
+              },
+              {
+                "id": 3,
+                "title": "فرصت‌های شغلی"
+              },
+              {
+                "id": 4,
+                "title": "گزارش تخلف در دیجی‌کالا"
+              },
+              {
+                "id": 5,
+                "title": "تماس با دیجی‌کالا"
+              },
+              {
+                "id": 6,
+                "title": "درباره دیجی‌کالا"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "state": false,
+            "title": "خدمات مشتریان",
+            "subAcardeon": [
+              {
+                "id": 1,
+                "title": "پاسخ به پرسش‌های متداول"
+              },
+              {
+                "id": 2,
+                "title": "رویه‌های بازگرداندن کالا"
+              },
+              {
+                "id": 3,
+                "title": "شرایط استفاده"
+              },
+              {
+                "id": 4,
+                "title": "حریم خصوصی"
+              },
+              {
+                "id": 5,
+                "title": "گزارش باگ"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "state": false,
+            "title": "راهنمای خرید از دیجی‌کالا",
+            "subAcardeon": [
+              {
+                "id": 1,
+                "title": "نحوه ثبت سفارش"
+              },
+              {
+                "id": 2,
+                "title": "رویه ارسال سفارش"
+              },
+              {
+                "id": 3,
+                "title": "شیوه‌های پرداخت"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "state": true,
+            "title": "شرکای تجاری",
+            "subAcardeon": [
+              {
+                "id": 1,
+                "state": "left-bottom",
+                "url": "https://dkstatics-public.digikala.com/digikala-static/4801e91f7b612493262538e3fad2d1d268f7e9f0_1758969413.svg"
+              },
+              {
+                "id": 2,
+                "state": "left-bottom",
+                "url": "https://www.digikala.com/statics/img/svg/footer/digipay.svg"
+              },
+              {
+                "id": 3,
+                "state": "bottom",
+                "url": "https://www.digikala.com/statics/img/svg/footer/digistyle.svg"
+              },
+              {
+                "id": 4,
+                "state": "left-bottom",
+                "url": "https://www.digikala.com/statics/img/svg/footer/digiplus.svg"
+              },
+              {
+                "id": 5,
+                "state": "left-bottom",
+                "url": "https://www.digikala.com/statics/img/svg/footer/digiclub.svg"
+              },
+              {
+                "id": 6,
+                "state": "bottom",
+                "url": "https://www.digikala.com/statics/img/svg/footer/jet.svg"
+              },
+              {
+                "id": 7,
+                "state": "left-bottom",
+                "url": "https://dkstatics-public.digikala.com/digikala-static/6d8b4e67f90b80c581949f1e680aeaa60fa49d0e_1770621595.svg"
+              },
+              {
+                "id": 8,
+                "state": "left-bottom",
+                "url": "https://www.digikala.com/statics/img/svg/footer/digiMehr.svg"
+              },
+              {
+                "id": 9,
+                "state": "bottom",
+                "url": "https://www.digikala.com/statics/img/svg/footer/diginext.svg"
+              },
+              {
+                "id": 10,
+                "state": "left",
+                "url": "https://www.digikala.com/statics/img/svg/footer/digiexpress.svg"
+              },
+              {
+                "id": 11,
+                "state": "left",
+                "url": "https://www.digikala.com/statics/img/svg/footer/ganjeh.svg"
+              },
+              {
+                "id": 12,
+                "state": "left",
+                "url": "https://www.digikala.com/statics/img/svg/footer/ganjeh.svg"
+              },
+              {
+                "id": 13,
+                "state": "left",
+                "url": "https://www.digikala.com/statics/img/svg/footer/smartech.svg"
+              },
+              {
+                "id": 14,
+                "state": "left",
+                "url": "https://www.digikala.com/statics/img/svg/footer/digikala-business.svg"
+              },
+              {
+                "id": 15,
+                "state": "left",
+                "url": "https://dkstatics-public.digikala.com/digikala-static/d71fbbf34e40eca5197d564c70539434cc21a37c_1758969423.svg"
+              },
+              {
+                "id": 16,
+                "state": "left",
+                "url": "https://dkstatics-public.digikala.com/digikala-static/e7661075abe11edde27e6d550c3507756122e1cf_1758969434.svg"
+              },
+              {
+                "id": 17,
+                "state": "left",
+                "url": "https://dkstatics-public.digikala.com/digikala-static/9814bb50f330280b887fe545a6074cc72f33388e_1758978427.svg"
+              },
+              {
+                "id": 18,
+                "state": "left",
+                "url": "https://www.digikala.com/statics/img/svg/footer/digital-gold.svg"
+              }
+            ]
+          }
+        ],
+        "Brand": [
+          {
+            "id": 1,
+            "title": "acebook",
+            "backgroundcolor": "bg-blue-600",
+            "color": "text-stone-100",
+            "icon": "fa fa-facebook-square",
+            "animation": null
+          },
+          {
+            "id": 2,
+            "title": "instagram",
+            "backgroundcolor": "bg-pink-600",
+            "color": "text-stone-100",
+            "icon": "fa fa-instagram",
+            "animation": null
+          },
+          {
+            "id": 3,
+            "title": "Linux",
+            "backgroundcolor": "bg-black",
+            "color": "text-yellow-600",
+            "icon": "fa fa-linux",
+            "animation": null
+          },
+          {
+            "id": 4,
+            "title": "Telegram",
+            "backgroundcolor": "bg-sky-600",
+            "color": "text-stone-100",
+            "icon": "fa fa-telegram",
+            "animation": null
+          }
+        ]
+      },
+      "FixedFooter": [
+        {
+          "id": 1,
+          "title": "مگنت",
+          "route": "/test",
+          "url": "../../../../public/Images/Footer_fixed_App_icon/android-chrome-512x512 (13).png"
+        },
+        {
+          "id": 2,
+          "title": "دسته‌بندی",
+          "route": "/test2",
+          "url": "../../../../public/Images/Footer_fixed_App_icon/Square.png"
+        },
+        {
+          "id": 3,
+          "title": "TNA",
+          "route": "/TNA",
+          "url": "../../../../public/Images/Footer_fixed_App_icon/ai-technology.png"
+        },
+        {
+          "id": 4,
+          "title": "دیجی‌کالای من",
+          "route": "/user",
+          "url": "../../../../public/Images/Footer_fixed_App_icon/user.png"
+        },
+        {
+          "id": 5,
+          "title": "خانه",
+          "route": "/",
+          "url": "../../../../public/Images/Footer_fixed_App_icon/home.png"
+        }
+      ],
+      "Part2": [
+        {
+          "id": 1,
+          "title": "اﻣﮑﺎن ﺗﺤﻮﯾﻞ اﮐﺴﭙﺮس",
+          "url": "https://www.digikala.com/statics/img/svg/footer/express-delivery.svg"
+        },
+        {
+          "id": 2,
+          "title": "امکان پرداخت در محل",
+          "url": "https://www.digikala.com/statics/img/svg/footer/cash-on-delivery.svg"
+        },
+        {
+          "id": 3,
+          "title": "۷ روز ﻫﻔﺘﻪ، ۲۴ ﺳﺎﻋﺘﻪ",
+          "url": "https://www.digikala.com/statics/img/svg/footer/support.svg"
+        },
+        {
+          "id": 4,
+          "title": "هفت روز ضمانت بازگشت کالا",
+          "url": "https://www.digikala.com/statics/img/svg/footer/days-return.svg"
+        },
+        {
+          "id": 5,
+          "title": "ﺿﻤﺎﻧﺖ اﺻﻞ ﺑﻮدن ﮐﺎﻟﺎ",
+          "url": "https://www.digikala.com/statics/img/svg/footer/original-products.svg"
+        }
+      ],
+      "Part3": [
+        {
+          "state": false,
+          "table": [
+            {
+              "id": 1,
+              "title": "با دیجی‌کالا"
+            },
+            {
+              "id": 2,
+              "title": "اتاق خبر دیجی‌کالا"
+            },
+            {
+              "id": 3,
+              "title": "فروش در دیجی‌کالا"
+            },
+            {
+              "id": 4,
+              "title": "فرصت‌های شغلی"
+            },
+            {
+              "id": 5,
+              "title": "گزارش تخلف در دیجی‌کالا"
+            },
+            {
+              "id": 6,
+              "title": "تماس با دیجی‌کالا"
+            },
+            {
+              "id": 7,
+              "title": "درباره دیجی‌کالا"
+            }
+          ]
+        },
+        {
+          "state": true
+        },
+        {
+          "state": false,
+          "table": [
+            {
+              "id": 1,
+              "title": "خدمات مشتریان"
+            },
+            {
+              "id": 2,
+              "title": "پاسخ به پرسش‌های متداول"
+            },
+            {
+              "id": 3,
+              "title": "رویه‌های بازگرداندن کالا"
+            },
+            {
+              "id": 4,
+              "title": "شرایط استفاده"
+            },
+            {
+              "id": 5,
+              "title": "حریم خصوصی"
+            },
+            {
+              "id": 6,
+              "title": "گزارش باگ"
+            }
+          ]
+        },
+        {
+          "state": true
+        },
+        {
+          "state": false,
+          "table": [
+            {
+              "id": 1,
+              "title": "راهنمای خرید از دیجی‌کالا"
+            },
+            {
+              "id": 2,
+              "title": "نحوه ثبت سفارش"
+            },
+            {
+              "id": 3,
+              "title": "رویه ارسال سفارش"
+            },
+            {
+              "id": 4,
+              "title": "شیوه‌های پرداخت"
+            }
+          ]
+        },
+        {
+          "state": true
+        }
+      ],
+      "Part5": {
+        "id": 1,
+        "url": "https://www.digikala.com/statics/img/png/footerlogo2.webp",
+        "title": "دانلود اپلیکیشن دیجی‌کالا",
+        "App": [
+          {
+            "id": 1,
+            "url": "https://www.digikala.com/statics/img/svg/appStores/coffe-bazzar.svg"
+          },
+          {
+            "id": 2,
+            "url": "https://www.digikala.com/statics/img/svg/appStores/myket.svg"
+          },
+          {
+            "id": 3,
+            "url": "https://www.digikala.com/statics/img/svg/appStores/sib-app.svg"
+          }
+        ]
+      },
+      "Part6": {
+        "heading": {
+          "id": 1,
+          "title": "دیجی کالا؛ بزرگترین فروشگاه اینترنتی ایران"
+        },
+        "Paragraph": [
+          {
+            "id": 1,
+            "title": null,
+            "paragraph": "دیجی کالا سال‌ها است که به انتخاب اول بسیاری از خریداران اینترنتی تبدیل شده است. دیجی کالا به عنوان بزرگ‌ترین و معتبرترین فروشگاه آنلاین ایران، شناخته‌شده‌ترین فروشگاه نیز محسوب می‌شود. این فروشگاه آنلاین نه‌تنها گسترده‌ترین تنوع کالا را در دسته‌بندی‌های مختلف ارائه می‌دهد، بلکه با خدمات بی‌نظیر، ارسال سریع، ضمانت اصل بودن کالا و پشتیبانی حرفه‌ای، استاندارد جدیدی در خرید اینترنتی ایران تعریف کرده است. این فروشگاه با سال‌ها تجربه و اعتماد مشتریان، کامل‌ترین و بهترین گزینه برای خرید آنلاین در ایران محسوب می‌شود."
+          },
+          {
+            "id": 2,
+            "title": "ویژگی های مهم دیجی کالا",
+            "paragraph": "یکی از ویژگی‌های مهم در خرید از دیجی کالا، تنوع بی‌نظیر محصولات است. این فروشگاه اینترنتی طیف وسیعی از کالاها را در دسته‌های مختلف از جمله لوازم دیجیتال، لوازم خانگی، مد و پوشاک، لوازم آرایشی و بهداشتی، محصولات سلامت و زیبایی، و بسیاری از محصولات دیگر ارائه می‌دهد. به عنوان   مثال، اگر به دنبال خرید یا بررسی قیمت گوشی  باشید، دیجی کالا مجموعه‌ای از بهترین گوشی‌ها از برندهای معتبر اپل و سامسونگ مانند آیفون ۱۷، گوشی S25 ، گوشی‌های مختلف از برند شیائومی مانند شیائومی نوت ۱۴  و بسیاری از برندهای دیگر را در اختیار شما قرار می‌دهد. همچنین برای علاقه‌مندان به لوازم دیجیتال، این فروشگاه اینترنتی انواع لپ تاپ، تلویزیون، اسپیکر ، و هندزفری بلوتوثی با کیفیت بالا را برای خرید آنلاین ارائه می‌دهد. دیجی کالا، مقصدی بی‌پایان برای خرید آسان، سریع و مطمئن است. راهی که هر آنچه نیاز دارید از قیمت لپ تاپ  تا یک ایرپاد مطمئن را در اختیار شما قرار می‌دهد. "
+          },
+          {
+            "id": 3,
+            "title": "ارسال سریع و مطمئن کالا",
+            "paragraph": "یکی از مهم‌ترین دغدغه‌های کاربران خرید آنلاین، زمان تحویل کالا است. دیجی کالا برای حل این مشکل، گزینه‌های مختلف ارسال را در نظر گرفته است تا کاربران بتوانند بر اساس نیاز خود، روش ارسال مناسب را انتخاب کنند. به عنوان مثال، ارسال کالا به صورت تحویل امروز با ارسال سریع دیجی‌کالا، از جمله روش‌های خرید سریع از این فروشگاه اینترنتی است. این امکانات باعث می‌شود که خریداران بتوانند سفارش خود را در کوتاه‌ترین زمان ممکن دریافت کنند. علاوه بر این، در صورتی که کالای خریداری شده از لحاظ کیفیت یا هر دلیل دیگری رضایت مشتری را جلب نکرده باشد، دیجی کالا ضمانت بازگشت کالا را ارائه می‌دهد. این ویژگی موجب اعتماد بیشتر مشتریان به خرید آنلاین از فروشگاه اینترنتی دیجی کالا شده است."
+          },
+          {
+            "id": 4,
+            "title": "تخفیف های ویژه و جشنواره ها",
+            "paragraph": "دیجی کالا به طور منظم جشنواره‌ها و تخفیف‌های ویژه‌ای را برگزار می‌کند که برای مشتریان فرصت خرید کالاهای باکیفیت با قیمت‌های مناسب به همراه خواهد داشت. این تخفیف‌ها در ایام خاص مانند ، شب یلدا و جشنواره‌های فصلی تابستان و زمستان توجه بسیاری از خریداران را جلب می‌کند. در این جشنواره‌ها، دیجی کالا تخفیف‌های عالی روی محصولات مختلف از جمله گوشی‌های موبایل، لپ تاپ‌ها، تلویزیون‌ها، و حتی محصولات مناسب سازمانی مثل پک هدیه یلدا  ارائه می‌دهد. می‌توانید گوشی ایفون ۱۶ یا گوشی S25 را با تخفیف‌های ویژه خریداری کنید و از قیمت مناسب بهره‌مند شوید. دیجی کالا فراتر از یک فروشگاه اینترنتی، یک تجربه خرید مطمئن در بین کاربران مختلف بوده است که با ارائه بزرگ‌ترین تنوع کالا، قیمت‌های مختلف و خدماتی بی‌نقص، به مقصد اول خریداران آنلاین در ایران تبدیل شده است. "
+          }
+        ],
+        "PerMit": [
+          {
+            "id": 1,
+            "url": "https://www.digikala.com/statics/img/png/sapra.webp"
+          },
+          {
+            "id": 2,
+            "url": "https://www.digikala.com/statics/img/png/rezi.webp"
+          },
+          {
+            "id": 3,
+            "url": "https://www.digikala.com/statics/img/png/kasbokar.webp"
+          },
+          {
+            "id": 4,
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU2_9SbY45Ia-xd1DYI-Qr1EpkUG-XJa5TtvJIbXgY2ssNWCNv"
+          }
+        ]
+      },
+      "Part7": {
+        "heading": {
+          "id": 1,
+          "title": "برای استفاده از مطالب دیجی‌کالا، داشتن «هدف غیرتجاری» و ذکر «منبع» کافیست. تمام حقوق اين وب‌سايت نیز برای شرکت نوآوران فن آوازه (فروشگاه آنلاین دیجی‌کالا) است."
+        },
+        "Advertisment": [
+          {
+            "id": 1,
+            "state": "left-bottom",
+            "url": "https://dkstatics-public.digikala.com/digikala-static/4801e91f7b612493262538e3fad2d1d268f7e9f0_1758969413.svg"
+          },
+          {
+            "id": 2,
+            "state": "left-bottom",
+            "url": "https://www.digikala.com/statics/img/svg/footer/digipay.svg"
+          },
+          {
+            "id": 3,
+            "state": "left-bottom",
+            "url": "https://www.digikala.com/statics/img/svg/footer/digistyle.svg"
+          },
+          {
+            "id": 4,
+            "state": "left-bottom",
+            "url": "https://www.digikala.com/statics/img/svg/footer/digiplus.svg"
+          },
+          {
+            "id": 5,
+            "state": "left-bottom",
+            "url": "https://www.digikala.com/statics/img/svg/footer/digiclub.svg"
+          },
+          {
+            "id": 6,
+            "state": "left-bottom",
+            "url": "https://www.digikala.com/statics/img/svg/footer/jet.svg"
+          },
+          {
+            "id": 7,
+            "state": "left-bottom",
+            "url": "https://dkstatics-public.digikala.com/digikala-static/6d8b4e67f90b80c581949f1e680aeaa60fa49d0e_1770621595.svg"
+          },
+          {
+            "id": 8,
+            "state": "left-bottom",
+            "url": "https://www.digikala.com/statics/img/svg/footer/digiMehr.svg"
+          },
+          {
+            "id": 9,
+            "state": "bottom",
+            "url": "https://www.digikala.com/statics/img/svg/footer/diginext.svg"
+          },
+          {
+            "id": 10,
+            "state": "left",
+            "url": "https://www.digikala.com/statics/img/svg/footer/digiexpress.svg"
+          },
+          {
+            "id": 11,
+            "state": "left",
+            "url": "https://www.digikala.com/statics/img/svg/footer/ganjeh.svg"
+          },
+          {
+            "id": 12,
+            "state": "left",
+            "url": "https://www.digikala.com/statics/img/svg/footer/ganjeh.svg"
+          },
+          {
+            "id": 13,
+            "state": "left",
+            "url": "https://www.digikala.com/statics/img/svg/footer/smartech.svg"
+          },
+          {
+            "id": 14,
+            "state": "left",
+            "url": "https://www.digikala.com/statics/img/svg/footer/digikala-business.svg"
+          },
+          {
+            "id": 15,
+            "state": "left",
+            "url": "https://dkstatics-public.digikala.com/digikala-static/d71fbbf34e40eca5197d564c70539434cc21a37c_1758969423.svg"
+          },
+          {
+            "id": 16,
+            "state": "left",
+            "url": "https://dkstatics-public.digikala.com/digikala-static/e7661075abe11edde27e6d550c3507756122e1cf_1758969434.svg"
+          },
+          {
+            "id": 17,
+            "state": "left",
+            "url": "https://dkstatics-public.digikala.com/digikala-static/9814bb50f330280b887fe545a6074cc72f33388e_1758978427.svg"
+          },
+          {
+            "id": 18,
+            "state": "left",
+            "url": "https://www.digikala.com/statics/img/svg/footer/digital-gold.svg"
+          }
+        ]
+      }
+    }
+  },
+  "ProductsMobile": [
+    {
+      "id": "1",
+      "title": "گوشی موبایل سامسونگ مدل Galaxy S26 Ultra دو سیم‌کارت ظرفیت 256 گیگابایت و رم 12 گیگابایت - ویتنام",
+      "url": "https://dkstatics-public.digikala.com/digikala-products/f763c68074bc2007562135176a588d2324593b63_1779812739.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+      "send": "ارسال سریع دیجی‌کالا",
+      "star": "۴.۵",
+      "price": "۳۰۳,۴۰۲,۹۰۰",
+      "priceFilter": 303
+    },
+    {
+      "id": "2",
+      "title": "گوشی موبایل سامسونگ مدل Galaxy A26 دو سیم کارت ظرفیت 256 گیگابایت و رم 8 گیگابایت - ویتنام",
+      "url": "https://dkstatics-public.digikala.com/digikala-products/6cd26d265db5b92dc3a8c1f24aeefe38f5474c08_1747563608.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+      "send": "ارسال سریع دیجی‌کالا",
+      "star": "۴.۵",
+      "price": "۵۴,۰۴۶,۲۵۰",
+      "priceFilter": 54
+    },
+    {
+      "id": "3",
+      "title": "گوشی موبایل وکال مدل V0 Core دو سیم کارت ظرفیت 32 گیگابایت و رم 2 گیگابایت",
+      "url": "https://dkstatics-public.digikala.com/digikala-products/7c736e578f9bfd5f7cb80a7dfc63c0fb04e627b2_1739258983.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+      "send": "ارسال سریع دیجی‌کالا",
+      "star": "۳.۹",
+      "price": "۱۲,۳۰۰,۰۰۰",
+      "priceFilter": 12
+    },
+    {
+      "id": "4",
+      "title": "گوشی موبایل سامسونگ مدل Galaxy S26 Ultra دو سیم‌کارت ظرفیت 256 گیگابایت و رم 12 گیگابایت - ویتنام",
+      "url": "https://dkstatics-public.digikala.com/digikala-products/2342ad87776c9801a8116d41950cb5909bddc16b_1738145086.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "send": "ارسال سریع دیجی‌کالا",
+      "star": "۴.۵",
+      "price": "۳۰۳,۴۰۲,۹۰۰",
+      "priceFilter": 303
+    },
+    {
+      "id": "5",
+      "title": "گوشی موبایل سامسونگ مدل Galaxy A36 دو سیم کارت ظرفیت 256 گیگابایت و رم 8 گیگابایت - ویتنام - به همراه شارژر 25 وات سامسونگ",
+      "url": "https://dkstatics-public.digikala.com/digikala-products/b937b9bf43cccf4ca4cb7f9d1c2d4fc980892cc0_1747574873.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "send": "ارسال سریع دیجی‌کالا",
+      "star": "۴.۵",
+      "price": "۶۴,۶۵۹,۰۷۰",
+      "priceFilter": 64
+    },
+    {
+      "id": "6",
+      "title": "گوشی موبایل وکال مدل F4 دو سیم‌کارت ظرفیت 64 مگابایت و رم 64 مگابایت",
+      "url": "https://dkstatics-public.digikala.com/digikala-products/7d25857eaa2fe9b3678d3d46bfb6a753099f65b4_1776673271.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "send": "ارسال سریع دیجی‌کالا",
+      "star": "۴.۵",
+      "price": "۲,۴۸۰,۰۰۰",
+      "priceFilter": 2
+    },
+    {
+      "id": "7",
+      "title": " گوشی موبایل هانوفر مدل Axiom1 دو سیم‌کارت ظرفیت 128 گیگابایت و رم 8 گیگابایت",
+      "url": "https://dkstatics-public.digikala.com/digikala-products/e37c6f0abae172267ac6724a3b11747e682d0f12_1779196253.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "send": "ارسال سریع دیجی‌کالا",
+      "star": "۳.۷",
+      "price": "۲۱,۰۰۰,۰۰۰",
+      "priceFilter": 21
+    },
+    {
+      "id": "8",
+      "title": "گوشی موبایل اپل مدل iPhone 17 Pro Max ZAA تک سیم کارت + eSim ظرفیت 256 گیگابایت و رم 12 گیگابایت - نات اکتیو ",
+      "url": "https://dkstatics-public.digikala.com/digikala-products/ec57ce03f2a92834058f502174b1a2aeffc9a580_1759666637.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "send": "ارسال سریع دیجی‌کالا",
+      "star": "۴.۶",
+      "price": "۳۹۸,۹۰۰,۰۰۰",
+      "priceFilter": 398
+    },
+    {
+      "id": "9",
+      "title": "گوشی موبایل اپل مدل iPhone 16 CH دو سیم کارت ظرفیت 128 گیگابایت و رم 8 گیگابایت",
+      "url": "https://dkstatics-public.digikala.com/digikala-products/5af568b4909435c6a215ad5e728e902db234b673_1736597759.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "send": "ارسال سریع دیجی‌کالا",
+      "star": "۴.۶",
+      "price": "۲۳۷,۵۰۰,۰۰۰",
+      "priceFilter": 237
+    },
+    {
+      "id": "10",
+      "title": "گوشی موبایل اپل مدل iPhone 17 CH دو سیم کارت ظرفیت 256 گیگابایت و رم 8 گیگابایت - نات اکتیو",
+      "url": "https://dkstatics-public.digikala.com/digikala-products/0a8fff942ea8ee0359edadad85daae399b0e357c_1763462145.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "send": "ارسال سریع دیجی‌کالا",
+      "star": "۴.۶",
+      "price": "۲۵۸,۴۰۰,۰۰۰",
+      "priceFilter": 258
+    },
+    {
+      "id": "11",
+      "title": "گوشی موبایل شیائومی مدل Poco M7 Pro 5G دو سیم کارت ظرفیت 512 گیگابایت و رم 12 گیگابایت",
+      "url": "https://dkstatics-public.digikala.com/digikala-products/a6ee1696a5063962c40877571e098dd48885f71b_1768489634.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "send": "ارسال سریع دیجی‌کالا",
+      "star": "۴.۵",
+      "price": "۶۳,۹۹۹,۰۰۰",
+      "priceFilter": 63
+    },
+    {
+      "id": "12",
+      "title": "گوشی موبایل شیائومی مدل Poco X7 Pro دو سیم کارت ظرفیت 512 گیگابایت و رم 12 گیگابایت - گلوبال",
+      "url": "https://dkstatics-public.digikala.com/digikala-products/6144c3fdde10110e4312420db31e07f42e2cfc3a_1738146333.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "send": "ارسال سریع دیجی‌کالا",
+      "star": "۴.۵",
+      "price": "۸۹,۴۰۰,۰۰۰",
+      "priceFilter": 89
+    },
+    {
+      "id": "13",
+      "title": "گوشی موبایل اپل مدل iPhone 17 Pro ZAA تک سیم کارت + eSim ظرفیت 256 گیگابایت و رم 12 گیگابایت - نات اکتیو",
+      "url": "https://dkstatics-public.digikala.com/digikala-products/79bdac3b8275d977c88c804ecc2ff1187db687d5_1760525882.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "send": "ارسال سریع دیجی‌کالا",
+      "star": "۴.۶",
+      "price": "۳۷۰,۰۰۰,۰۰۰",
+      "priceFilter": 370
+    },
+    {
+      "id": "14",
+      "title": "گوشی موبایل شیائومی مدل Poco C71 دو سیم کارت ظرفیت 128 گیگابایت و رم 4 گیگابایت",
+      "url": "https://dkstatics-public.digikala.com/digikala-products/935cb213b0d1c0982296c017df69d4df4b8401cb_1759669542.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "send": "ارسال سریع دیجی‌کالا",
+      "star": "۴.۵",
+      "price": "۲۲,۵۵۰,۰۰۰",
+      "priceFilter": 22
+    },
+    {
+      "id": "15",
+      "title": "گوشی موبایل شیائومی مدل Redmi Note 14 Pro Plus 5G دو سیم کارت ظرفیت 512 گیگابایت و رم 12 گیگابایت",
+      "url": "https://dkstatics-public.digikala.com/digikala-products/8ba714e0fddcd56cd974cf0fdd93903c1fa2423f_1770469599.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "send": "ارسال سریع دیجی‌کالا",
+      "star": "۴.۵",
+      "price": "۹۴,۹۹۹,۰۰۰",
+      "priceFilter": 94
+    },
+    {
+      "id": "16",
+      "title": "گوشی موبایل هانوفر مدل 5500 دو سیم‌کارت ظرفیت 32 مگابایت و رم 32 مگابایت",
+      "url": "https://dkstatics-public.digikala.com/digikala-products/624e6c46344aaa75bc22ef4ef4e2e58de2712ae7_1778502148.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "send": "ارسال سریع دیجی‌کالا",
+      "star": "۵",
+      "price": "۱,۹۸۵,۰۰۰",
+      "priceFilter": 1
+    },
+    {
+      "id": "17",
+      "title": "گوشی موبایل سایفر مدل C50 دو سیم‌کارت ظرفیت 128 گیگابایت و رم 4 گیگابایت",
+      "url": "https://dkstatics-public.digikala.com/digikala-products/66d0e053a01a890dee37fc06d294bb74659f500b_1754225153.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "send": "ارسال سریع دیجی‌کالا",
+      "star": "۴.۳",
+      "price": "۲۱,۴۹۹,۰۰۰",
+      "priceFilter": 21
+    },
+    {
+      "id": "18",
+      "title": "گوشی موبایل سامسونگ مدل Galaxy A56 دو سیم کارت ظرفیت 256 گیگابایت و رم 12 گیگابایت - ویتنام - به همراه شارژر 25 وات سامسونگ",
+      "url": "https://dkstatics-public.digikala.com/digikala-products/003e543cae72425e0ecb1825be5b3b83686919b0_1746028532.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "send": "ارسال سریع دیجی‌کالا",
+      "star": "۴.۵",
+      "price": "۹۲,۹۹۱,۹۷۰",
+      "priceFilter": 92
+    },
+    {
+      "id": "19",
+      "title": "گوشی موبایل آنر مدل X9d دو سیم کارت ظرفیت 256 گیگابایت و رم 12 گیگابایت",
+      "url": "https://dkstatics-public.digikala.com/digikala-products/ea66787e6d2040a0cab1fa9c9d8c54d7a9e0d5a3_1768997655.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "send": "ارسال سریع دیجی‌کالا",
+      "star": "۴.۷",
+      "price": "۸۶,۵۸۷,۷۰۰",
+      "priceFilter": 86
+    },
+    {
+      "id": "20",
+      "title": "گوشی موبایل شیائومی مدل Poco M7 Pro 5G دو سیم کارت ظرفیت 512 گیگابایت و رم 12 گیگابایت",
+      "url": "https://dkstatics-public.digikala.com/digikala-products/19b851f28bc2a293bf9c7f76a68384d76d3301ea_1753865119.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "send": "ارسال سریع دیجی‌کالا",
+      "star": "۴.۵",
+      "price": "۷۵,۵۸۷,۷۰۰",
+      "priceFilter": 75
+    },
+    {
+      "PageName": "https://dkstatics-public.digikala.com/digikala-products/7c736e578f9bfd5f7cb80a7dfc63c0fb04e627b2_1739258983.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+      "title": "گوشی موبایل وکال مدل V0 Core دو سیم کارت ظرفیت 32 گیگابایت و رم 2 گیگابایت",
+      "star": "4.5",
+      "id": "3qOjvZRRIX4",
+      "send": "ارسال سریع دیجی‌کالا"
+    },
+    {
+      "PageName": "https://dkstatics-public.digikala.com/digikala-products/7c736e578f9bfd5f7cb80a7dfc63c0fb04e627b2_1739258983.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+      "title": "گوشی موبایل وکال مدل V0 Core دو سیم کارت ظرفیت 32 گیگابایت و رم 2 گیگابایت",
+      "star": "369",
+      "price": "75و000و00",
+      "priceFilter": "5",
+      "id": "0G_FVjHL0ks",
+      "send": "ارسال سریع دیجی‌کالا"
+    }
+  ],
+  "ResultSearchProductsMobile": [
+    {
+      "id": "1",
+      "title": "گوشی موبایل مدل Galaxy S26 Ultra دو سیم‌کارت ظرفیت 256 گیگابایت و رم 12 گیگابایت - ویتنام",
+      "url": "https://dkstatics-public.digikala.com/digikala-products/2342ad87776c9801a8116d41950cb5909bddc16b_1738145086.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "send": "ارسال سریع دیجی‌کالا",
+      "star": "۴.۵",
+      "price": "۳۰۳,۴۰۲,۹۰۰"
+    }
+  ],
+  "BuyProducts": [
+    {
+      "id": "1",
+      "title": "گوشی موبایل سامسونگ مدل Galaxy S26 Ultra دو سیم‌کارت ظرفیت 256 گیگابایت و رم 12 گیگابایت - ویتنام",
+      "url": "https://dkstatics-public.digikala.com/digikala-products/2342ad87776c9801a8116d41950cb5909bddc16b_1738145086.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "send": "ارسال سریع دیجی‌کالا",
+      "star": "۴.۵",
+      "price": "۳۰۳,۴۰۲,۹۰۰",
+      "priceFilter": 303
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
