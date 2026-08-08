@@ -9,12 +9,12 @@
     "Header": {
       "Logo": "https://www.digikala.com/brand/full-horizontal.svg",
       "LogoMobile": "https://www.digikala.com/brand/typography.svg",
-      "InputZang": "/Images/icon5Btn.png",
+      "InputZang": "/Digikala/Images/icon5Btn.png",
       "BtnHeader": {
         "title": "ورود | ثبت‌نام",
-        "icon": "/Images/DoorIcon.png",
-        "icon2": "/Images/icon5Btn.png",
-        "shopIcon": "/Images/shop.png"
+        "icon": "/Digikala/Images/DoorIcon.png",
+        "icon2": "/Digikala/Images/icon5Btn.png",
+        "shopIcon": "/Digikala/Images/shop.png"
       },
       "menu": {
         "menuP2": {
@@ -25,28 +25,28 @@
           {
             "id": 1,
             "title": "شگفت‌انگیزها",
-            "icon": "/Images/icon2.png",
+            "icon": "/Digikala/Images/icon2.png",
             "margin": 0,
             "line": false
           },
           {
             "id": 2,
             "title": "سوپرمارکت",
-            "icon": "/Images/icon1.png",
+            "icon": "/Digikala/Images/icon1.png",
             "margin": 12,
             "line": false
           },
           {
             "id": 3,
             "title": "طلا و نقره دیجیتال",
-            "icon": "/Images/icon3.png",
+            "icon": "/Digikala/Images/icon3.png",
             "margin": 14,
             "line": false
           },
           {
             "id": 4,
             "title": "پرفروش‌ترین‌ها",
-            "icon": "/Images/icon4.png",
+            "icon": "/Digikala/Images/icon4.png",
             "margin": 15,
             "line": false
           },
@@ -67,12 +67,12 @@
       "sliderHeaderMobile": [
         {
           "id": 1,
-          "src": "/Images/Slider_Mo_head/icon_slider_1_mo.png",
+          "src": "/Digikala/Images/Slider_Mo_head/icon_slider_1_mo.png",
           "title": "سرویس‌ها"
         },
         {
           "id": 2,
-          "src": "/Images/Slider_Mo_head/icon_slider_2_mo.png",
+          "src": "/Digikala/Images/Slider_Mo_head/icon_slider_2_mo.png",
           "title": "دیجی‌کالا"
         },
         {
@@ -82,12 +82,12 @@
         },
         {
           "id": 4,
-          "src": "/Images/Slider_Mo_head/icon_slider_4_mo.png",
+          "src": "/Digikala/Images/Slider_Mo_head/icon_slider_4_mo.png",
           "title": "طلا و نقره"
         },
         {
           "id": 5,
-          "src": "/Images/Slider_Mo_head/icon_slider_5_mo.png",
+          "src": "/Digikala/Images/Slider_Mo_head/icon_slider_5_mo.png",
           "title": "استایل"
         },
         {
@@ -97,14 +97,14 @@
         },
         {
           "id": 7,
-          "src": "/Images/Slider_Mo_head/icon_slider_7_mo.png",
+          "src": "/Digikala/Images/Slider_Mo_head/icon_slider_7_mo.png",
           "title": "اعتبار خرید"
         }
       ],
       "location": {
         "title": "انتخاب آدرس",
-        "icon": "/Images/Location.png",
-        "iconMo": "/Images/Header_Mo/Location.png",
+        "icon": "/Digikala/Images/Location.png",
+        "iconMo": "/Digikala/Images/Header_Mo/Location.png",
         "headTitle": "انتخاب موقعیت مکانی",
         "headTitle2": "برای تحویل به‌موقع سفارش، موقعیت را دقیق انتخاب کنید...",
         "Placeholder": "جستجوی استان و شهر ...",
@@ -794,7 +794,7 @@
     },
     "BrownSlider": {
       "titleBrownSlider": {
-        "icon": "/Images/maket.png",
+        "icon": "/Digikala/Images/maket.png",
         "title": "ارسال ۳ ساعته فروشنده",
         "link": "مشاهده همه"
       },
@@ -1046,7 +1046,7 @@
     "BrandSlider": {
       "head": {
         "title": "محبوب‌ترین برندها",
-        "url": "/Images/Star.png"
+        "url": "/Digikala/Images/Star.png"
       },
       "Slides": [
         {
@@ -2597,7 +2597,7 @@
             "id": 1,
             "title": "تماس با پشتیبانی",
             "caption": "۷ روز هفته، ۲۴ ساعت",
-            "url": "/Images/Footer_Icon/headphones.png",
+            "url": "/Digikala/Images/Footer_Icon/headphones.png",
             "BtnText": "تماس"
           },
           {
@@ -2824,31 +2824,31 @@
           "id": 1,
           "title": "مگنت",
           "route": "/test",
-          "url": "/Images/Footer_fixed_App_icon/android-chrome-512x512 (13).png"
+          "url": "/Digikala/Images/Footer_fixed_App_icon/android-chrome-512x512 (13).png"
         },
         {
           "id": 2,
           "title": "دسته‌بندی",
           "route": "/test2",
-          "url": "/Images/Footer_fixed_App_icon/Square.png"
+          "url": "/Digikala/Images/Footer_fixed_App_icon/Square.png"
         },
         {
           "id": 3,
           "title": "TNA",
           "route": "/TNA",
-          "url": "/Images/Footer_fixed_App_icon/ai-technology.png"
+          "url": "/Digikala/Images/Footer_fixed_App_icon/ai-technology.png"
         },
         {
           "id": 4,
           "title": "دیجی‌کالای من",
           "route": "/user",
-          "url": "/Images/Footer_fixed_App_icon/user.png"
+          "url": "/Digikala/Images/Footer_fixed_App_icon/user.png"
         },
         {
           "id": 5,
           "title": "خانه",
           "route": "/",
-          "url": "/Images/Footer_fixed_App_icon/home.png"
+          "url": "/Digikala/Images/Footer_fixed_App_icon/home.png"
         }
       ],
       "Part2": [
